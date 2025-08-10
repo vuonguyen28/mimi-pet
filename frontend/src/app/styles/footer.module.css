@@ -1,0 +1,111 @@
+
+.footer {
+  background-color: #e6007e;
+  color: #fff;
+  padding: 40px 20px 20px;
+  font-weight: 300;
+  font-size: 14px;
+}
+
+.footer-container {
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  justify-content: space-between;
+  gap: 88px;
+  flex-wrap: wrap;
+}
+
+.footer-col {
+  flex: 1 ;
+  /* min-width: 280px; */
+}
+
+.footer-col:first-child {
+  flex: 1.5;
+}
+.footer-logo {
+  max-width: 130px;
+  margin: 0 auto 20px auto;
+  display: block;
+}
+
+
+.footer-col h3 {
+  font-weight: 600;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+
+.footer-col p {
+  margin-bottom: 10px;
+  line-height: 1.5;
+  color: #fff;
+}
+
+.social-icons a {
+  display: inline-block;
+  margin-right: 10px;
+  filter: brightness(1.2);
+  transition: filter 0.3s;
+}
+.social-icons img {
+  max-width: 40px;
+  margin-right: 10px;
+  transition: opacity 0.3s;
+}
+.social-icons a:hover {
+  filter: brightness(0.8);
+}
+
+.bct-logo {
+  margin-top: 15px;
+  max-width: 120px;
+  display: block;
+}
+
+.support-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 20px 0;
+}
+
+.support-list li {
+  margin-bottom: 8px;
+  cursor: pointer;
+}
+
+.support-list li:hover {
+  text-decoration: underline;
+}
+
+.payment-icons img {
+  max-width: 250px;
+  margin-right: 10px;
+  opacity: 1;
+  filter: brightness(1);
+  transition: opacity 0.3s;
+}
+
+
+.footer-bottom {
+  text-align: center;
+  border-top: 1px solid rgba(255, 255, 255, 0.3);
+  margin-top: 40px;
+  padding-top: 15px;
+  font-weight: 400;
+  font-size: 13px;
+  color: #fff;
+}
+
+/* Responsive mobile */
+@media (max-width: 768px) {
+  .footer-container {
+    flex-direction: column;
+    gap: 30px;
+  }
+  .footer-col {
+    min-width: 100%;
+  }
+}

@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "name": "BlindBox",
+  "hidden": false
+},
+{
+  "_id": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "name": "Gấu Bông KIDS",
+  "hidden": false
+},
+{
+  "_id": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "name": "Gấu Bông Couple",
+  "hidden": false
+},
+{
+  "_id": {
+    "$oid": "682eefbfb4154a5b30c4900c"
+  },
+  "name": "Gấu Bông Khổng Lồ"
+},
+{
+  "_id": {
+    "$oid": "6836bd438bae817a54d1d16e"
+  },
+  "name": "Gấu Bông Ghi Âm"
+},
+{
+  "_id": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "name": "Gấu Bông Quà Tặng"
+},
+{
+  "_id": {
+    "$oid": "6836ddb8cab3cf29cc5da7a9"
+  },
+  "name": "Hoa Gấu Bông"
+},
+{
+  "_id": {
+    "$oid": "6837cae262e4059224b1267c"
+  },
+  "name": "Gấu Bông BaBy Three"
+},
+{
+  "_id": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "name": "Gấu Teddy "
+}]

@@ -1,0 +1,264 @@
+.mimi_products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 25px;
+}
+.mimi_product {
+  display: flex;
+  justify-content: space-between;
+  min-height: 390;
+  background: #fff;
+  align-items: center;
+  flex-direction: column;
+  gap: 5px;
+  position: relative;
+  width: calc(25% - 19px);
+  box-sizing: border-box;
+  border-radius: 30px 30px 20px 20px;
+  background: linear-gradient(180deg, #fff8fb 60%, #ffe5f0 100%);
+  overflow: hidden;
+  min-width: 280px;
+  padding-bottom: 20px;
+  transition: transform 0.5s ease, box-shadow 0.5s ease;
+  transform: scale(1);
+  margin-bottom: 20px;
+}
+.mimi_product a {
+  text-decoration: none;
+}
+.mimi_product:hover {
+  z-index: 2;
+  cursor: pointer;
+}
+.mimi_product .mimi_image_hover {
+  position: absolute;
+  margin: 0 auto;
+  top: 15px;
+  transform: translateX(-50%);
+  left: 50%;
+  width: 80%;
+  height: auto;
+  border-radius: 25px 25px 25px 25px;
+  object-fit: cover;
+  opacity: 0;
+  transition: opacity 0.8s ease-in-out;
+  z-index: 1;
+}
+.mimi_product:hover .mimi_image_hover {
+  opacity: 1;
+}
+
+.tieude {
+  text-align: center;
+  color: #b576e6;
+  font-size: 2.5rem;
+  font-family: 'Baloo 2', cursive, sans-serif;
+  font-weight: 700;
+  margin: 20px 0px;
+  margin-top: 0;
+  letter-spacing: 2px;
+}
+
+.mimi_product:hover p {
+  color: #f48fb1;
+}
+.mimi_product img {
+  width: 80%;
+  height: auto;
+  margin: 15px auto 0;
+  border-radius: 25px;
+  display: block;
+}
+.mimi_image_wrapper {
+  position: relative;
+  overflow: hidden;
+}
+.mimi_cart_icon {
+  position: absolute;
+  top: 15px;
+  left: 10px;
+  width: 30px;
+  height: 30px;
+  background: #fff0f9;
+  border-radius: 50%;
+  padding: 4px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.15);
+  opacity: 1;
+  z-index: 3;
+  border: 1px solid #e04e7d;
+}
+.mimi_product .mimi_image_wrapper .mimi_logo_left {
+  position: absolute;
+  top: -5px;
+  left: 10px;
+  width: 43px;
+  height: 43px;
+  border-radius: 50%;
+  background: #f061a1;
+  object-fit: cover;
+  z-index: 10;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.1);
+}
+.mimi_cart_icon img {
+  width: 75%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+  margin: 20px auto 0;
+}
+.mimi_product p {
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 0;
+  margin: 0;
+  text-align:center;
+  color: #444;
+}
+.mimi_price {
+  color: #e04e7d;
+  font-size: 20px;
+  font-weight: bold;
+}
+.mimi_prices_sale {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 40px;
+  padding: 10px 0 2px;
+}
+.mimi_price_sale {
+  text-decoration: line-through;
+  color: #888;
+  font-size: 15px;
+}
+.mimi_sizes {
+  padding: 0 10px;
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.mimi_size_box {
+  position: relative;
+  border: 2px solid #6f5ba0;
+  border-radius: 15px;
+  padding: 3px 8px;
+  font-size: 10px;
+  color: #6f5ba0;
+  text-align: center;
+  line-height: 1.2;
+}
+.mimi_size_box.active {
+  background-color: #f05599;
+  color: white;
+  border: 2px solid #f05599;
+}
+.mimi_buy_now_btn {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: linear-gradient(135deg, #f05599, #f18bbd);
+  color: white;
+  font-weight: bold;
+  border: none;
+  padding: 10px 30px;
+  border-radius: 25px;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.4s ease, transform 0.4s ease;
+  z-index: 3;
+}
+.mimi_product:hover .mimi_buy_now_btn {
+  opacity: 1;
+  transform: translateX(-50%) translateY(-10px);
+}
+.mimi_buy_now_btn img {
+  width: 45px;
+  height: 45px;
+  object-fit: contain;
+}
+.mimi_bear_left {
+  position: absolute;
+  bottom: 15px;
+  left: -5px;
+}
+.mimi_bear_right {
+  position: absolute;
+  bottom: -10px;
+  right: -17px;
+}
+.mimi_saleTag {
+  position: absolute;
+  top: 13px;
+  right: 13px;
+  background: linear-gradient(135deg, #f061a1 70%, #ffb2e1 100%);
+  color: #fff;
+  font-size: 1.25rem;
+  font-weight: 700;
+  border-radius: 18px 6px 18px 18px;
+  padding: 4px 18px 3px 18px;
+  z-index: 1;
+  box-shadow: 0 2px 10px 0 rgba(240, 97, 161, 0.18);
+  border: 2px dashed #fff;
+  transform: rotate(-8deg);
+  animation: saleShake 2.5s infinite alternate ease-in-out;
+}
+@keyframes saleShake {
+  0% {
+    transform: rotate(-8deg) scale(1);
+  }
+  60% {
+    transform: rotate(-8deg) scale(1);
+  }
+  70% {
+    transform: rotate(-14deg) scale(1.09);
+  }
+  80% {
+    transform: rotate(-6deg) scale(1.04);
+  }
+  90% {
+    transform: rotate(-12deg) scale(1.07);
+  }
+  100% {
+    transform: rotate(-8deg) scale(1);
+  }
+}
+.mimi_heartIcon {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  z-index: 4;
+}
+
+.mimi_heartIcon {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  z-index: 4;
+  background-color: white;
+  border: 2px solid #e87ebd; /* màu hồng nhạt nổi bật */
+  color: #6d2d85;
+  border-radius: 50%;
+  padding: 4px 5px 1px;
+  display: none; /* Ẩn mặc định */
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.mimi_product:hover .mimi_heartIcon {
+  display: block;
+}
+
+@media (min-width: 1024px) {
+   .mimi_products {
+    padding-left: 30px;
+  padding-right: 30px;
+  }
+}

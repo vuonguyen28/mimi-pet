@@ -1,0 +1,87 @@
+/* DỊCH VỤ TẠI CỮA HÀNG */
+.thanh_dieu_huong {
+  text-align: center;
+  margin-top: 30px;
+  /* font-family: 'Montserrat', sans-serif; */
+}
+
+.thanh_dieu_huong h1 {
+  color: #e64f9c;
+  font-size: 24px;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.thanh_dieu_huong a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #b062da;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.thanh_dieu_huong a.active {
+  color: #e64f9c;
+  border-bottom: 2px solid #e64f9c;
+  padding-bottom: 3px;
+}
+
+.hop_noi_dung {
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 0 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.khoi_dich_vu {
+  background-color: #fff0f9;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 30px;
+  overflow: hidden;
+  gap: 40px;
+}
+
+.cot_hinh_anh {
+  flex: 1;
+}
+
+.cot_hinh_anh img {
+  width: 100%;
+  border-radius: 20px;
+}
+
+.cot_noi_dung {
+  flex: 1.2;
+  color: #f05599;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: 75px;
+}
+
+.cot_noi_dung p {
+  font-size: 15px;
+  line-height: 1.6;
+  color: #f05599;
+  margin-bottom: 20px;
+}
+
+.nut_xem_them {
+  align-self: center;
+  padding: 10px 20px;
+  border: 1.5px solid #e64f9c;
+  border-radius: 20px;
+  color: #e64f9c;
+  background: transparent;
+  cursor: pointer;
+  font-size: 14px;
+  text-decoration: none;
+  transition: background 0.3s, color 0.3s;
+}
+
+.nut_xem_them:hover {
+  background-color: #e64f9c;
+  color: white;
+}

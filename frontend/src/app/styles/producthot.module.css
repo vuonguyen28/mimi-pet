@@ -1,0 +1,206 @@
+.section {
+  max-width: 1200px;
+  margin: 48px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 48px;
+  flex-wrap: wrap;
+  padding: 0 16px;
+}
+.sliderCol {
+  max-width: 660px;
+  width: 100%;
+  position: relative;
+  min-width: 0;
+}
+.sliderHoverWrap {
+  position: relative;
+}
+
+/* Card sản phẩm */
+.item {
+  /* background: linear-gradient(180deg, #fff8fb 70%, #ffe5f0 100%); */
+  border-radius: 28px;
+  /* box-shadow: 0 4px 28px 0 rgba(252, 138, 198, 0.16); */
+  padding: 0 0 20px 0;
+  width: 320px !important;
+  display: flex !important;
+  flex-direction: column;
+  align-items: center;
+  /* border: 2.5px solid #ffd6ed; */
+  /* transition: box-shadow .17s, transform .12s, border .17s; */
+  overflow: visible;
+  min-height: 410px;
+  margin: 0 15px;
+  box-sizing: border-box;
+}
+
+/* Hiệu ứng nổi bật khi hover */
+.item:hover {
+  /* box-shadow: 0 8px 36px 0 #fb92cd44; */
+  border-color: #e5b3d6;
+  /* transform: translateY(-5px) scale(1.025); */
+}
+
+/* Ảnh sản phẩm */
+.item img {
+    max-width: 600px;
+  height: 100%;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+  border-radius: 20px 20px 16px 16px;
+  margin-top: 18px;
+  background: #fff;
+  box-shadow: 0 2px 18px #ffb2e1aa;
+  display: block;
+  min-height: 180px;
+  max-height: 240px;
+  border: 1.5px solid #f8d0e4;
+  transition: box-shadow .16s, border .16s;
+}
+.item:hover img {
+  box-shadow: 0 2px 22px #ffb2e1cc;
+  border-color: #e5b3d6;
+}
+
+/* Tiêu đề sản phẩm */
+.productTitle {
+  margin: 30px 0 0 0;
+  font-size: 1.43rem;
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-weight: 800;
+  color: #48475a;
+  text-align: center;
+  letter-spacing: 1px;
+  min-height: 40px;
+  transition: color .18s;
+}
+.item:hover .productTitle {
+  color: #e35ca4;
+}
+
+/* Nút trái/phải ra giữa slider, chỉ hiện khi hover */
+.slickArrow {
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.18s;
+  position: absolute;
+  top: 50%;
+  z-index: 2;
+  background: #e35ca4;
+  border: none;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  cursor: pointer;
+  transform: translateY(-50%);
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 6px #ffc9e150;
+}
+.slickPrev {
+  left: -24px;
+  right: auto;
+}
+.slickNext {
+  right: -24px;
+  left: auto;
+}
+.sliderHoverWrap:hover .slickArrow,
+.sliderHoverWrap:focus-within .slickArrow {
+  opacity: 1;
+  pointer-events: auto;
+}
+.slickArrow:hover, .slickArrow:focus {
+  background: #ff6cb2;
+}
+.slickCustom :global(.slick-dots) {
+  display: none !important;
+}
+
+.slickCustom :global(.slick-list) {
+  padding: 0 0px;
+}
+
+/* Content bên phải */
+.contentCol {
+  flex: 1;
+  padding-top: 18px;
+  max-width: 500px;
+  min-width: 220px;
+  margin: 0 12px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.contentCol h2 {
+  font-size: 2.1rem;
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-weight: 900;
+  color: #272223;
+  margin: 0 0 12px 0;
+  line-height: 1.12;
+  letter-spacing: 1.5px;
+}
+.contentCol h2 span {
+  display: block;
+  font-size: 2.05rem;
+  color: #e978aa;
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-weight: 900;
+  letter-spacing: 2px;
+  line-height: 1.1;
+  margin-top: 2px;
+}
+.contentCol p {
+  font-size: 1.11rem;
+  margin: 18px 0 22px 0;
+  color: #272223;
+  font-weight: 400;
+  line-height: 1.62;
+}
+
+/* Button chính */
+.btnMain {
+  font-size: 1.12rem;
+  font-weight: 700;
+  padding: 13px 34px;
+  border: 2px solid #ffe1f0;
+  background: linear-gradient(90deg, #fff 70%, #ffe8f4 100%);
+  border-radius: 16px;
+  cursor: pointer;
+  transition: background 0.2s, border 0.2s, color 0.14s;
+  color: #d12f89;
+  font-family: inherit;
+  margin-right: 5px;
+  box-shadow: 0 1px 7px #ffd0ec33;
+  letter-spacing: 1px;
+}
+.btnMain:hover {
+  background: #ffe6f2;
+  color: #a41d6a;
+  border-color: #fbc8e6;
+}
+
+.storyActions {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+@media (max-width: 900px){
+  .section { flex-direction: column; gap: 28px; align-items: center; }
+  .contentCol {padding-top: 10px;}
+  .sliderCol { max-width: 99vw; }
+  .item { width: 98vw !important; min-width: 0; }
+}
+@media (max-width: 600px){
+  .item { min-height: 160px; width: 96vw !important; max-width: 98vw;}
+  .productTitle { font-size: 1rem; margin-top: 12px;}
+  .contentCol h2 { font-size: 1.18rem;}
+  .contentCol h2 span { font-size: 1.28rem;}
+  .contentCol {padding-top: 4px;}
+}

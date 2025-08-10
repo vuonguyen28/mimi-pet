@@ -1,0 +1,151 @@
+.bgsContainer {
+  max-width: 1200px;
+  margin: 50px auto;
+  text-align: center;
+  padding: 0 20px;
+}
+
+.bgsHeader {
+  font-size: 45px;
+  font-weight: bold;
+  color: #ff5f8d;
+  margin-bottom: 30px;
+  letter-spacing: 1px;
+}
+
+.bgsCarousel :global(.slick-slide) {
+  padding: 10px;
+}
+
+.bgsSlide {
+  background: linear-gradient(to bottom, #ffeef3, #ffd6e6);
+  border-radius: 20px;
+  overflow: hidden;
+  transition: transform 0.3s ease;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+}
+
+.bgsSlide:hover {
+  transform: translateY(-6px);
+}
+
+.bgsSlide img {
+  width: 100%;
+  border-radius: 20px 20px 0 0;
+  display: block;
+}
+
+.bgsCaption {
+  padding: 0 16px;
+}
+
+.bgsCaption p {
+  font-size: 16px;
+  font-weight: 600;
+  color: #e03c88;
+  margin-bottom: 20px;
+  line-height: 1.4;
+}
+
+.bgsCaption a {
+  display: inline-block;
+  font-size: 15px;
+  color: #f05599;
+  text-decoration: none;
+  border-top: 2px solid #f05599;
+  padding-top: 6px;
+  padding-bottom: 15px;
+  transition: color 0.3s;
+}
+
+.bgsCaption a:hover {
+  color: #a33cb0;
+}
+
+.bgsCarousel :global(.slick-prev),
+.bgsCarousel :global(.slick-next) {
+  background: linear-gradient(135deg, #f061a1 , #ffb2e1);
+  border-radius: 50%;
+  width: 35px;
+  height: 35px;
+  z-index: 1;
+  position: absolute;
+  top: 40%;
+  transform: translateY(-50%);
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/* Đẩy sát ra ngoài carousel */
+.bgsCarousel :global(.slick-prev) {
+  left: 2px;
+}
+
+.bgsCarousel :global(.slick-next) {
+  right: 2px;
+}
+
+/* Ẩn icon mặc định */
+.bgsCarousel :global(.slick-prev::before),
+.bgsCarousel :global(.slick-next::before) {
+  content: "";
+  display: none;
+}
+
+/* Vẽ mũi tên bằng border trắng */
+.bgsCarousel :global(.slick-prev::after) {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 15px;
+  height: 15px;
+  border-top: 2.5px solid white;
+  border-left: 2.5px solid white;
+  transform: translate(-50%, -50%) rotate(-45deg);
+}
+
+.bgsCarousel :global(.slick-next::after) {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 15px;
+  height: 15px;
+  border-bottom: 2.5px solid white;
+  border-right: 2.5px solid white;
+  transform: translate(-50%, -50%) rotate(-45deg);
+}
+
+
+
+/* Responsive */
+@media (max-width: 992px) {
+  .bgsHeader {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 768px) {
+  .bgsCaption p {
+    font-size: 14px;
+  }
+}
+
+/* Đồng bộ chiều cao card */
+.bgsSlide {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+/* Làm cho slick-track dùng hết chiều ngang */
+.bgsCarousel :global(.slick-track) {
+  display: flex !important;
+}
+
+/* Ép từng slide con full chiều cao */
+.bgsCarousel :global(.slick-slide > div) {
+  height: 100%;
+}

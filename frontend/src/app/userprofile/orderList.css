@@ -1,0 +1,290 @@
+.tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 24px;
+}
+.tab {
+  flex: 1;
+  padding: 4px 12px;
+  border-radius: 20px;
+  background: #e9ecef;
+  color: #495057;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  transition: 0.3s;
+}
+.tab.active {
+  background: #d6336c;
+  color: #fff;
+}
+
+.order {
+  background: #fff;
+  border: 1px solid #dee2e6;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  overflow: hidden;
+}
+.order-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px;
+  background: #F8F3E7;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.order-info {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.order-title {
+  font-weight: bold;
+  color: #d6336c;
+}
+.order-meta {
+  font-size: 13px;
+  color: #6c757d;
+}
+.order-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: space-between;
+  min-width: 120px;
+}
+.order-status {
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: bold;
+  color: #fff;
+  display: inline-block;
+  margin-bottom: 4px;
+}
+.order-status.waiting {
+  background: #f39c12;
+}
+.order-status.approved {
+  background: #3498db;
+}
+.order-status.processing {
+  background: #6f42c1;
+}
+.order-status.shipping {
+  background: #e67e22;
+}
+.order-status.delivered {
+  background: #2ecc71;
+}
+.order-status.cancelled {
+  background: #e74c3c;
+}
+.order-status.returned {
+  background: #ffb584;
+}
+
+.toggle-btn {
+  background: none;
+  border: none;
+  color: #0d6efd;
+  cursor: pointer;
+  font-size: 14px;
+  padding: 4px 0;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.order-body {
+  display: none;
+  padding: 16px;
+  border-top: 1px solid #eee;
+}
+.order-body.active {
+  display: block;
+}
+.order-section {
+  background: #F4E5E1;
+  border-radius: 8px;
+  padding: 12px;
+  margin-bottom: 16px;
+}
+.order-section:last-child {
+  margin-bottom: 0;
+}
+.order-section h4 {
+  margin: 0 0 8px;
+  font-size: 14px;
+  color: #495057;
+}
+
+.product-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+.product-item:last-child {
+  margin-bottom: 0;
+}
+.product-item img {
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+  border-radius: 6px;
+  margin-right: 12px;
+}
+
+.product-details {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.product-details span:first-child {
+  display: block;
+  font-size: 14px;
+  color: #333;
+}
+.product-details span:not(:first-child) {
+  font-size: 13px;
+  color: #6c757d;
+}
+
+/* ✅ Giá + nút đánh giá */
+.product-price-review {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  min-width: 100px;
+  gap: 4px;
+}
+.product-price {
+  font-weight: bold;
+  font-size: 14px;
+  color: #000;
+}
+
+/* ✅ Nút đánh giá dễ thương */
+.btn-review {
+  display: inline-block;
+  padding: 5px 10px;
+  background-color: #ff90b3;
+  color: #fff;
+  font-size: 12px;
+  border-radius: 999px;
+  text-decoration: none;
+  font-weight: 500;
+  box-shadow: 0 2px 4px rgba(255, 144, 179, 0.4);
+  transition: all 0.2s ease;
+}
+.btn-review:hover {
+  background-color: #ff6fa2;
+  color: #d63384;
+  box-shadow: 0 4px 8px rgba(255, 111, 162, 0.3);
+}
+
+/* ✅ Tóm tắt đơn hàng */
+.summary-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+.summary-row.total {
+  font-weight: bold;
+  color: #d6336c;
+  font-size: 16px;
+}
+
+/* ✅ Trạng thái thanh toán */
+.payment-status {
+  font-weight: bold;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 13px;
+  display: inline-block;
+}
+.payment-status.paid {
+  color: #28a745;
+}
+.payment-status.unpaid {
+  color: #dc3545;
+}
+.payment-status.pending {
+  color: #f39c12;
+}
+.payment-status.refunded {
+  color: #17a2b8; 
+}
+
+
+/* ✅ Nút huỷ và nhận */
+.order-btn {
+  display: inline-block;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 20px;
+  color: #fff;
+  cursor: pointer;
+  margin-top: 8px;
+  font-weight: 500;
+}
+
+/* Huỷ đơn hàng */
+.order-btn.cancel {
+  background: #e03131;
+}
+
+/* Đã nhận hàng */
+.order-btn.received {
+  background: #d6336c;
+}
+
+.order-btn.received:disabled {
+  background: #adb5bd;
+  cursor: default;
+}
+
+.no-orders {
+  padding: 40px;
+  text-align: center;
+  font-size: 18px;
+  color: #999;
+}
+
+.delivered-success {
+  padding: 6px 10px;
+  margin-top: 8px;
+  font-size: 14px;
+  font-weight: 500;
+  background-color: #e9fff2;
+  color: #28a745; /* Xanh lá */
+  text-align: left;
+   border-radius: 5px; 
+}
+
+.summary-row.total {
+  font-weight: bold;
+  color: #d6336c;
+}
+
+
+/* ✅ Responsive mobile */
+@media (max-width: 600px) {
+  .product-item {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .product-item img {
+    margin-bottom: 8px;
+  }
+  .product-price-review {
+    align-items: flex-start;
+    width: 100%;
+  }
+}

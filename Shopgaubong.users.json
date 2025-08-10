@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6826b983f9e648674d9aeb9e"
+  },
+  "email": "admin@gmail.com",
+  "password": "admin",
+  "role": "admin",
+  "status": "Hoạt động",
+  "dob": "14/03/2005",
+  "username": "Admin",
+  "visible": true
+},
+{
+  "_id": {
+    "$oid": "683d183f0c8519cd21170a17"
+  },
+  "email": "newuser@example.com",
+  "password": "newpass",
+  "role": "user",
+  "status": "Khóa",
+  "dob": "01/01/2006",
+  "username": "NewUser123",
+  "visible": false
+},
+{
+  "_id": {
+    "$oid": "683d18c50c8519cd21170a18"
+  },
+  "email": "new2user@example.com",
+  "password": "newpass",
+  "role": "user",
+  "status": "Hoạt động",
+  "dob": "01/01/2010",
+  "username": "NewUser124",
+  "visible": true
+}]

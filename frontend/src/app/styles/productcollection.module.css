@@ -1,0 +1,92 @@
+.wrapper {
+  background: #fff !important;
+  padding: 50px 0;
+  text-align: center;
+}
+
+.tieude {
+  font-size: 30px;
+  color: #d63384; /* Hồng đậm */
+  font-weight: 600;
+  margin-bottom: 30px;
+  font-family: 'Segoe UI', cursive;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+:global(.swiper),
+:global(.swiper-wrapper),
+:global(.swiper-slide) {
+  background-color: white !important;
+}
+ 
+.bangTruot {
+    background-color: white !important;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  position: relative;
+}
+
+.theSanPham {
+    background-color: white !important;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.theSanPham img {
+    background-color: white !important;
+
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+}
+
+
+/* Swiper arrows custom */
+.swiper-button-prev,
+.swiper-button-next {
+  color: #d63384;
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 10px;
+  border-radius: 50%;
+  top: 40%;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+
+.swiper-button-prev:hover,
+.swiper-button-next:hover {
+  background-color: #d63384;
+  color: #fff;
+}
+.theSanPham {
+  background-color: white !important;
+  border-radius: 20px;
+  overflow: hidden;
+  position: relative;
+  transition: transform 0.3s ease;
+}
+
+.tenSanPham {
+  position: absolute;
+  bottom: -17px;
+  left: 0;
+  width: 100%;
+  padding: 10px 0;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+  text-align: center;
+  transform: translateY(100%);
+  opacity: 0;
+  transition: all 0.4s ease;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+/* Khi hover */
+.theSanPham:hover .tenSanPham {
+  transform: translateY(0);
+  opacity: 1;
+}
+

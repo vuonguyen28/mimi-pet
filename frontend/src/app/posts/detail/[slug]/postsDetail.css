@@ -1,0 +1,708 @@
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: #fff;
+  margin: 0;
+  color: #222;
+}
+.span{
+  text-decoration: underline;
+  color: #F05599;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px;
+}
+
+@media (min-width: 768px) {
+  .container {
+    flex-direction: row-reverse;
+    align-items: flex-start;
+  }
+
+  .sidebar {
+    width: 30%;
+    top: 0; 
+  }
+
+  .main-content {
+    width: 70%;
+  }
+}
+
+.main-content {
+  flex: 1;
+  margin-right: 36px;
+  background: #fff;
+}
+
+.main-content h1 {
+  color: #e84892;
+  font-size: 28px;
+  margin-bottom: 8px;
+  margin-top: 0;
+  font-weight: bold;
+}
+
+.meta {
+  color: #e84892;
+  font-size: 14px;
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+}
+
+.main-content p {
+  margin-top: 0;
+  margin-bottom: 16px;
+  font-size: 16px;
+}
+
+.main-image {
+  margin: 32px 0 16px 0;
+  text-align: center;
+}
+
+.main-image img {
+  margin-top: 20px;
+  width: 90%;
+  height: auto;
+  max-width: 800px;
+  align-items: center;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 3px 12px rgba(200, 0, 100, 0.06);
+}
+
+.caption {
+  color: #c882b7;
+  font-size: 15px;
+  margin-top: 8px;
+  font-style: italic;
+  text-align: center;
+}
+
+.section h2 {
+  font-size: 1rem;
+  color: #333;
+  margin-top: 20px;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.section h3 {
+  font-size: 17px;
+  color: #333;
+  margin-top: 16px;
+}
+
+.section ul,
+.section ol {
+  margin-top: 8px;
+  margin-bottom: 16px;
+  padding-left: 20px;
+}
+
+.section ul li,
+.section ol li {
+  margin-bottom: 8px;
+  font-size: 16px;
+}
+
+.section a {
+  color: #e84892;
+}
+
+.gallery {
+  margin: 16px 0;
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.gallery img {
+  width: 28%;
+  min-width: 120px;
+  max-width: 170px;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(200, 0, 100, 0.08);
+  margin-bottom: 10px;
+  object-fit: cover;
+  display: block;
+}
+
+/* Sidebar */
+.sidebar {
+  width: 250px; /* Tăng chiều rộng lên một chút */
+  background: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar-header {
+  background: #e84892;
+  border-radius: 4px 4px 0 0;
+  padding: 0;
+}
+
+.sidebar-title {
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  margin: 0;
+  padding: 16px 0 14px 18px;
+  text-align: left;
+  letter-spacing: 1px;
+  border-radius: 8px 8px 0 0;
+}
+
+.sidebar-menu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  background: #fff;
+  border-radius: 0 0 8px 8px;
+  border: 1.5px solid #ededed;
+  border-top: none;
+}
+
+.menu-item {
+  margin-left: 16px;
+  text-align: left;
+  position: relative;
+}
+
+.menu-item a {
+  display: inline-block;
+  color: #e84892;
+  font-size: 15px;
+  padding: 15px 0 13px 0;
+  text-decoration: none;
+  background: #fff;
+  transition: color 0.15s, font-size 0.15s, font-weight 0.15s;
+  font-weight: 500;
+  position: relative;
+  min-width: 70%;
+  max-width: 95%;
+  width: auto;
+}
+
+/* Gạch xám dài đúng bằng chữ, căn giữa */
+.menu-item:not(:last-child) a::after {
+  content: "";
+  display: block;
+  height: 1.5px;
+  background: #ededed;
+  margin: 11px auto 0 auto;
+  width: 100%;
+  max-width: 100%;
+}
+
+.menu-item a:hover,
+.menu-item a:focus {
+  color: #d02c73;
+  font-size: 15.2px;
+  font-weight: 600;
+  background: #fff;
+}
+
+
+@media (max-width: 1100px) {
+  .container {
+    flex-direction: column;
+    padding: 0 10px;
+    min-width: 0;
+  }
+
+  .main-content {
+    margin-right: 0;
+    width: 100%;
+  }
+
+  .sidebar {
+    width: 100%;
+    margin-top: 32px;
+  }
+
+  .main-image img,
+  .gallery img {
+    max-width: 100%;
+    width: 100%;
+  }
+
+  .gallery {
+    flex-direction: column;
+    gap: 16px;
+  }
+}
+
+/* phần kề cuối */
+
+.table-responsive {
+  box-sizing: border-box;
+}
+
+.table-responsive table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table-responsive td {
+  border: 1px solid #ccc; /* viền xám mờ cho từng ô */
+  padding: 10px;
+  text-align: center;
+}
+
+.share-comment-container {
+  max-width: 900px;
+  margin: 0 auto;
+  font-family: 'Arial', sans-serif;
+}
+
+/* SHARE SECTION - chỉnh lại layout giống hình */
+.share-section {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-bottom: 30px;
+}
+
+.share-section span {
+  font-size: 16px;
+  color: #666;
+  margin-right: 8px;
+}
+
+/* Social icons nằm gọn trong 1 hàng */
+.social-icons {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.social-icons a img {
+  width: 28px;
+  height: 28px;
+  border-radius: 4px;
+  transition: transform 0.3s ease;
+}
+
+.social-icons a:hover img {
+  transform: scale(1.1);
+}
+
+/* Buttons nằm liền kề biểu tượng */
+.custom-buttons {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-left: auto;
+}
+
+.custom-buttons button {
+  background: #e6f0ff;
+  border: none;
+  border-radius: 6px;
+  color: #ec407a;
+  padding: 6px 14px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s ease;
+}
+
+.custom-buttons button:hover {
+  background: #d0e4ff;
+}
+
+.comment-section h3 {
+  color: #ec407a;
+  font-size: 28px;
+  margin-bottom: 8px;
+}
+
+.comment-section .note {
+  color: #ec407a;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+/* CHỈNH FORM BÌNH LUẬN */
+.comment-form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* Căn trái toàn bộ form */
+}
+
+.comment-form label {
+  color: #ec407a;
+  margin-top: 15px;
+  margin-bottom: 4px;
+}
+
+.comment-form .required {
+  color: #ec407a;
+}
+
+.comment-form input[type="text"],
+.comment-form input[type="email"],
+.comment-form input[type="url"],
+.comment-form textarea {
+  border: 1px solid #999;
+  border-radius: 2px;
+  padding: 8px;
+  font-size: 14px;
+  width: 100%;
+  max-width: 500px;
+}
+
+.comment-form textarea {
+  resize: vertical;
+}
+
+/* CĂN TRÁI CHECKBOX VÀ LABEL */
+.checkbox {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+  /* margin-top: 10px; */
+  font-size: 14px;
+  color: #ec407a;
+  width: 100%;
+  text-align: left;
+}
+
+.checkbox input[type="checkbox"] {
+align-items: center;
+}
+
+.submit-btn {
+  margin-top: 15px;
+  width: fit-content;
+  padding: 6px 14px;
+  background: #fff;
+  border: 1px solid #333;
+  cursor: pointer;
+}
+
+
+/* ----------------- INSTAGRAM SECTION ----------------- */
+.instagram-section {
+  width: 100%;
+  background: #fff;
+  padding: 50px 0 30px 0;
+  box-sizing: border-box;
+}
+.instagram-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.instagram-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 24px; /* <-- Default margin below header */
+}
+.instagram-title {
+  font-family: 'Montserrat',Georgia,serif;
+  font-size: 40px;
+  font-style: italic;
+  color: #000;
+  font-weight: 500;
+  margin-bottom: 18px;
+  margin-left: 0;
+  transition: font-size 0.2s;
+  white-space: nowrap;
+}
+.instagram-btn {
+  display: flex;
+  align-items: center;
+  background: #faf6ef;
+  border-radius: 6px;
+  border: 1px solid #eee;
+  padding: 10px 24px;
+  font-size: 15px;
+  color: #231f20;
+  font-weight: 500;
+  letter-spacing: .02em;
+  text-decoration: none;
+  margin-bottom: 18px;
+  transition: background 0.2s, font-size 0.2s, padding 0.2s;
+  white-space: nowrap;
+}
+.instagram-btn:hover {
+  background: #f7e6d7;
+}
+.instagram-btn svg {
+  width: 16px;
+  height: 16px;
+  min-width: 16px;
+  min-height: 16px;
+  margin-left: 10px;
+}
+.instagram-main {
+  display: flex;
+  width: 100%;
+  gap: 32px 24px;
+  justify-content: flex-start;
+  align-items: stretch;
+  margin-bottom: 36px;
+}
+.instagram-left {
+  flex-shrink: 0;
+  width: 33%;
+  min-width: 220px;
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+}
+.instagram-bigimg {
+  width: 100%;
+  max-width: 350px;
+  aspect-ratio: 1/1;
+  border-radius: 12px;
+  object-fit: cover;
+  box-shadow: 0 2px 8px #f3d6eb;
+  background: #f3f3f3;
+  display: block;
+  height: 100%;
+}
+.instagram-right {
+  flex: 1;
+  display: flex;
+  align-items: stretch;
+  height: 100%;
+}
+.instagram-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 16px;
+  width: 100%;
+  min-width: 0;
+  height: 100%;
+  min-height: 0;
+  align-content: stretch;
+}
+.instagram-grid img {
+  width: 100%;
+  aspect-ratio: 1/1;
+  border-radius: 12px;
+  background: #fff;
+  object-fit: cover;
+  display: block;
+  height: 100%;
+  min-height: 0;
+}
+.instagram-quote-block {
+  margin: 38px auto 0 auto;
+  text-align: center;
+}
+.instagram-quote {
+  font-family: 'Montserrat',Georgia,serif;
+  font-style: italic;
+  font-size: 28px;
+  color: #d7c8ae;
+  font-weight: 500;
+  max-width: 900px;
+  margin: 0 auto;
+}
+.instagram-dots {
+  margin-top: 22px;
+}
+.instagram-dot {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  margin: 0 3px;
+}
+.instagram-dot.active {
+  background: #d7c8ae;
+}
+.instagram-dot.inactive {
+  background: #fffbe7;
+  border: 1px solid #d7c8ae;
+}
+
+/* ----------------- RESPONSIVE ----------------- */
+@media (max-width: 1024px) {
+  .services-container {
+    max-width: 900px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .services-title {
+    font-size: 19px;
+    margin-bottom: 22px;
+  }
+  .services-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+  }
+  .service-card {
+    border-radius: 22px;
+    padding-bottom: 18px;
+  }
+  .service-img {
+    border-radius: 22px 22px 0 0;
+    height: 160px;
+  }
+  .service-desc {
+    font-size: 14px;
+    margin-top: 35px;
+    min-height: 26px;
+    padding: 0 14px;
+  }
+  .service-link {
+    font-size: 15px;
+    min-width: 60px;
+  }
+  .service-link-wrap hr {
+    width: 60px;
+    margin-bottom: 6px;
+  }
+
+  .instagram-container {
+    max-width: 900px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .instagram-grid { gap: 10px; }
+  .instagram-main { gap: 18px 0; }
+  .instagram-title { font-size: 28px; }
+  .instagram-quote { font-size: 18px; }
+  .instagram-left { min-width: 140px; }
+  .instagram-bigimg { max-width: 220px; }
+}
+
+@media (max-width: 700px) {
+  .instagram-title {
+    font-size: 22px;
+  }
+  .instagram-btn {
+    font-size: 13px;
+    padding: 7px 10px;
+  }
+  .instagram-btn svg {
+    width: 13px;
+    height: 13px;
+    min-width: 13px;
+    min-height: 13px;
+    margin-left: 6px;
+  }
+}
+
+@media (max-width: 600px) {
+  .services-container {
+    max-width: 100%;
+    padding-left: 6px;
+    padding-right: 6px;
+  }
+  .services-title {
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+  .services-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+  .service-card {
+    border-radius: 12px;
+    padding-bottom: 10px;
+  }
+  .service-img {
+    border-radius: 12px 12px 0 0;
+    height: 90px;
+  }
+  .service-desc {
+    margin-top: 10px;
+    font-size: 12px;
+    padding: 0 4px;
+    min-height: 18px;
+  }
+  .service-link {
+    font-size: 12px;
+    min-width: 0;
+  }
+  .service-link-wrap hr {
+    width: 30px;
+    margin-bottom: 2px;
+  }
+
+  .instagram-container {
+    max-width: 100%;
+    padding-left: 6px;
+    padding-right: 6px;
+  }
+  .instagram-main {
+    flex-direction: column;
+    gap: 12px 0;
+  }
+  .instagram-left, .instagram-right {
+    width: 100%;
+    min-width: 0;
+  }
+  .instagram-grid {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 5px;
+  }
+  .instagram-bigimg {
+    max-width: 110px;
+  }
+  /* ĐẢM BẢO 2 NÚT VẪN CÁCH XA NHAU, LUÔN Ở 2 BÊN */
+  .instagram-header {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 6px;
+    margin-bottom: 18px; /* <-- Tăng khoảng cách dưới ở mobile */
+  }
+  .instagram-title {
+    font-size: 15px;
+    margin-bottom: 2px;
+  }
+  .instagram-btn {
+    font-size: 10px;
+    padding: 4px 7px;
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+  .instagram-btn svg {
+    width: 10px;
+    height: 10px;
+    min-width: 10px;
+    min-height: 10px;
+    margin-left: 3px;
+  }
+}
+
+@media (max-width: 400px) {
+  .instagram-title {
+    font-size: 12px;
+  }
+  .instagram-btn {
+    font-size: 8px;
+    padding: 2px 4px;
+  }
+  .instagram-btn svg {
+    width: 8px;
+    height: 8px;
+    min-width: 8px;
+    min-height: 8px;
+    margin-left: 1px;
+  }
+  .instagram-bigimg {
+    max-width: 70px;
+  }
+}

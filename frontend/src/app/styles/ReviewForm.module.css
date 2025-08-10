@@ -1,0 +1,87 @@
+.reviewForm {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  background: #fff6fa;
+  border-radius: 16px;
+  padding: 2rem 2.5rem;
+  box-shadow: 0 2px 12px 0 rgba(255, 182, 193, 0.08);
+  border: 1.5px solid #ffe0ea;
+  margin-top: 2.2rem;
+  max-width: 480px;
+}
+
+.formTitle {
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: #f48fb1;
+  margin-bottom: 0.3rem;
+  letter-spacing: 0.5px;
+}
+
+.starRating {
+  display: flex;
+  gap: 0.4rem;
+  font-size: 2.1rem;
+  user-select: none;
+  margin-bottom: 0.1rem;
+}
+
+.star {
+  cursor: pointer;
+  color: #ffe6a7; /* pastel yellow */
+  transition: transform 0.12s, color 0.18s;
+  filter: drop-shadow(0 1px 2px #ffe6a7aa);
+  padding: 0 2px;
+}
+
+.star.filled {
+  color: #ffd600; /* pastel gold */
+  text-shadow: 0 2px 4px #ffe6a7;
+  transform: scale(1.1);
+}
+
+.label {
+  font-size: 1rem;
+  color: #f48fb1;
+  margin-bottom: 0.15rem;
+  font-weight: 500;
+}
+
+.textarea {
+  width: 100%;
+  border: 1.5px solid #ffe0ea;
+  border-radius: 8px;
+  font-size: 1rem;
+  padding: 0.85rem;
+  resize: vertical;
+  min-height: 90px;
+  background: #fff;
+  color: #ba68c8;
+  outline: none;
+  font-family: inherit;
+}
+
+.textarea:focus {
+  border-color: #f8bbd0;
+  background: #fff0f6;
+}
+
+.submitBtn {
+  margin-top: 0.5rem;
+  background: linear-gradient(90deg, #ffb6c1 0%, #ffe0ea 100%);
+  color: #954c7b;
+  border: none;
+  border-radius: 8px;
+  padding: 0.85rem;
+  font-size: 1.1rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background 0.2s, color 0.15s;
+  box-shadow: 0 1px 4px #ffe0ea;
+}
+
+.submitBtn:hover {
+  background: linear-gradient(90deg, #ffe0ea 0%, #ffb6c1 100%);
+  color: #d81b60;
+}

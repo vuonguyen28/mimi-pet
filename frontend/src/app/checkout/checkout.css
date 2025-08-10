@@ -1,0 +1,289 @@
+body {
+  margin: 0;
+  padding: 40px 0;
+  background: #fff;
+  color: #333;
+  font-family: 'Baloo 2', cursive, sans-serif !important;
+}
+
+.container {
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  height: auto;
+  margin-bottom: 80px;
+  margin-top: 20px;
+}
+
+.left {
+  max-width: 780px;
+  justify-content: center;
+  display: flex;
+  flex: 2;
+  gap: 40px;
+  border-radius: 10px;
+  border-bottom: 4px solid pink;
+}
+
+.column {
+  width: 370px;
+  padding: 15px;
+  border-radius: 10px;        /* bo góc mềm mại */
+}
+.column h3{
+  font-size: 18px;
+}
+.log{
+  width: 338px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.log h3{
+  font-size: 18px;
+}
+.log-dn {
+  display: flex;
+  align-items: center; /* căn giữa theo chiều dọc */
+  gap: 5px; /* khoảng cách giữa icon và chữ */
+}
+
+.log-dn img {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+  display: block;
+  filter: brightness(0) saturate(100%) invert(14%) sepia(100%) saturate(7486%) hue-rotate(240deg) brightness(100%) contrast(102%);
+}
+
+.log-dn button {
+  color: blue;
+  font-weight: 600;
+  font-size: 14px;
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+input{
+  width: 320px;
+  padding: 8px;
+  margin-top: 5px;
+  margin-bottom: 12px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+/*  */
+.nhaptt{
+  height: 22px;
+  width: 320px;
+  text-align: center;
+  background-color: #f6c1e8;
+  font-size: 15px;
+}
+.payment-method {
+  display: flex;
+  align-items: center;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  height: 60px;
+  margin-bottom: 10px;
+}
+.payment-method input{
+  margin: auto 8px;
+  width: 30px;
+  height: 15px;
+}
+.payment-method label{
+  /* margin-left: 5px; */
+  font-size: 14px;
+}
+.cod{
+  width: 100%;
+  width: 100px;
+  margin-left: auto;
+}
+.cod img{
+  margin: 0 auto;
+  justify-items: center;
+  display: flex;
+}
+h4{
+  font-size: 18px;
+}
+
+select {
+  width: 100%;
+  max-width: 338px;
+  padding: 8px;
+  margin-top: 5px;
+  margin-bottom: 12px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+textarea {
+  width: 331px;
+}
+
+.form-group{
+  width: 338px;
+}
+
+/* cột 3 */
+.right {
+  border-bottom: 4px solid pink;
+  margin-left: auto;
+  width: 345px;
+  height: auto;
+  padding: 15px;
+  background-color: #ffd6f4;
+  border-radius: 10px;        /* bo góc mềm mại */
+
+}
+
+.right h3 {
+  width: 337px;
+  height: 35px;
+  border-bottom: 1px solid black;
+  margin-top: 19px;
+  font-size: 18px;
+  font-weight: bold;
+}
+.order-summary {
+  font-size: 14px;
+}
+.spTT{
+  height: 60px;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+  max-width: 340px;
+}
+.soSP{
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: relative;
+}
+.soSP .anhGH{
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+  object-fit: cover;
+  display: block;
+  position: relative;
+}
+.soSP .siso{
+  align-items: center;
+  text-align: center;
+  color: white;
+  height: 18px;
+  width: 18px;
+  border-radius: 10px;
+  background-color: #e87ebd;
+  position: absolute;
+}
+.spTT span{
+  margin: 0 8px;
+  width: 205px;
+  height: 48px;
+  text-align: start;
+  font-size: 12px;
+}
+.spTT p{
+  text-align: end;
+  width: 75px;
+  font-size: 13px;
+}
+.saleTT{
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+  align-items: center;
+  height: 70px;
+  display: flex;
+  max-width: 340px;
+  justify-content: space-between;
+}
+.saleTT input{
+  margin: 0;
+  font-size: 12px;
+  width: 200px;
+  height: 25px;
+}
+.saleTT button{
+  background-color:#e87ebd;
+  color: white;
+  font-weight: 700;
+  border: none;
+  font-size: 12px;
+  width: 110px;
+  height: 42px;
+  border-radius: 4px;
+    transition: background 0.2s, color 0.2s;
+}
+.saleTT button:hover{
+    color: #ea4c89;
+   background-color: #fff;
+   border: 1.5px solid #ea4c89;
+}
+.tinhTien{
+  display: block;
+  margin: 20px auto;
+  align-items: center;
+}
+.tTien{
+  width: 336px;
+  align-items: center;
+  height: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.total {
+  max-width: 340px;
+  border-top: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.total p{
+  font-size: 16px;
+}
+.total span{
+  color: palevioletred;
+  font-size: 18px;
+}
+
+.actions {
+  max-width: 340px;
+  display: flex;
+  justify-content: space-between;
+}
+.actions .back {
+  border: none;
+  color: #fc56d8;
+  font-size: 16px;
+  cursor: pointer;
+  background: none;
+}
+.submit {
+  width: 120px;
+  border: none;
+  height: 40px;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #e87ebd;
+  transition: background 0.2s, color 0.2s;
+  color: #fff;
+}
+.submit:hover{
+   color: #ea4c89;
+   background-color: #fff;
+   border: 1.5px solid #ea4c89;
+}
+
+/*  */
+#district,
+#ward {
+  background-color: #c572ba8c;
+  transition: background 0.2s;
+}

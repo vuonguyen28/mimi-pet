@@ -1,0 +1,47 @@
+.discountTypeProduct {
+    color: #4dd187;
+    font-weight: 600;
+}
+.discountTypeCategory {
+    color: #6c757d;
+    font-weight: 600;
+}
+.discountTypeAll {
+    color: #7a75de;
+    font-weight: 600;
+}
+.discountSubText {
+    font-size: 12px;
+    color: #888;
+    font-weight: 400;
+}
+.statusBadge {
+    font-weight: 500;
+    min-width: 90px;
+    display: inline-block;
+    border-radius: 6px;
+    padding: 3px 12px;
+    margin-bottom: 2px;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+}
+.statusActive {
+    background: #198754;
+    color: #fff;
+}
+.statusInactive {
+    background: #ffc107;
+    color: #222;
+}
+.statusExpired {
+    background: #e0e0e0;
+    color: #b71c1c;
+}
+.statusDate {
+    font-size: 12px;
+    color: #888;
+    font-weight: 400;
+    display: block;
+    margin-top: 2px;
+    margin-left: 2px;
+}

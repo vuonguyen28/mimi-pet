@@ -1,0 +1,6537 @@
+[{
+  "_id": {
+    "$oid": "6810efe917e05da002e59bed"
+  },
+  "name": "Blindbox Baby Three Dây Treo Điện Thoại",
+  "description": "Chó Bông Puppy Váy Babydoll, phù hợp làm quà tặng.",
+  "price": 165000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 0,
+  "images": [
+    "BLB.webp",
+    "BLB0.1.webp",
+    "BLB0.2.webp",
+    "BLB0.3.webp",
+    "BLB0.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6810f3e617e05da002e59bef"
+  },
+  "name": "Blindbox Baby Three Thỏ Thị Trấn",
+  "description": "Blindbox Baby Three Thỏ Thị Trấn, phù hợp làm quà tặng.",
+  "price": 520000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-04-16T00:00:00.000Z"
+  },
+  "sold": 10,
+  "images": [
+    "BLB1.webp",
+    "BLB1.1.webp",
+    "BLB1.2.webp",
+    "BLB1.3.webp",
+    "BLB1.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6810f45217e05da002e59bf0"
+  },
+  "name": "Blindbox Baby Three Thỏ Macaron",
+  "description": "Blindbox Baby Three Thỏ Macaron, phù hợp làm quà tặng.",
+  "price": 290000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-07-16T00:00:00.000Z"
+  },
+  "sold": 17,
+  "images": [
+    "BLB2.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6810f5a317e05da002e59bf1"
+  },
+  "name": "Blindbox Baby Three Nghề Nghiệp",
+  "description": "Blindbox Baby Three Nghề Nghiệp phù hợp làm quà tặng.",
+  "price": 390000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-02-16T00:00:00.000Z"
+  },
+  " sold": 23,
+  "images": [
+    "BLB3.webp",
+    "BLB3.1.webp",
+    "BLB3.2.webp",
+    "BLB3.3.webp",
+    "BLB3.4.webp",
+    "BLB3.5.webp",
+    "BLB3.6.webp",
+    "BLB3.7.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6810f61c17e05da002e59bf2"
+  },
+  "name": "Blindbox Baby Three Túi May Mắn",
+  "description": "Blindbox Baby Three Túi May Mắn, phù hợp làm quà tặng.",
+  "price": 260000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-01-16T00:00:00.000Z"
+  },
+  "sold": 25,
+  "images": [
+    "BLB4.webp",
+    "BLB4.1.webp",
+    "BLB4.2.webp",
+    "BLB4.3.webp",
+    "BLB4.4.webp",
+    "BLB4.5.webp",
+    "BLB4.6.webp",
+    "BLB4.7.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6810f70217e05da002e59bf3"
+  },
+  "name": "Blindbox Tyke 3 12 Con Giáp",
+  "description": "Blindbox Tyke 3 12 Con Giáp phù hợp làm quà tặng.",
+  "price": 280000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-08-16T00:00:00.000Z"
+  },
+  "sold": 150,
+  "images": [
+    "BLB5.webp",
+    "BLB5.1.webp",
+    "BLB5.2.webp",
+    "BLB5.3.webp",
+    "BLB5.4.webp",
+    "BLB5.5.webp",
+    "BLB5.6.webp",
+    "BLB5.7.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6810f76417e05da002e59bf4"
+  },
+  "name": "Blindbox Tyke 3 Samuel 400%",
+  "description": "Blindbox Tyke 3 Samuel 400% phù hợp làm quà tặng.",
+  "price": 665000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-01-16T00:00:00.000Z"
+  },
+  "sold": 37,
+  "images": [
+    "BLB6.webp",
+    "BLB6.1.webp",
+    "BLB6.2.webp",
+    "BLB6.3.webp",
+    "BLB6.4.webp",
+    "BLB6.5.webp",
+    "BLB6.6.webp",
+    "BLB6.7.webp",
+    "BLB6.8.webp",
+    "BLB6.9.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6810f7ae17e05da002e59bf5"
+  },
+  "name": "Blindbox Tyke 3 Cung Hoàng Đạo Full Body",
+  "description": "Blindbox Tyke 3 Cung Hoàng Đạo Full Body phù hợp làm quà tặng.",
+  "price": 290000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-03-16T00:00:00.000Z"
+  },
+  "sold": 45,
+  "images": [
+    "BLB7.1.webp",
+    "BLB7.2.webp",
+    "BLB7.3.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6810f7f217e05da002e59bf6"
+  },
+  "name": "Blindbox Baby Three 400% Ver 2",
+  "description": "Blindbox Baby Three 400% Ver 2 phù hợp làm quà tặng.",
+  "price": 895000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-04-16T00:00:00.000Z"
+  },
+  "sold": 10,
+  "images": [
+    "BLB8.1.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6810f83617e05da002e59bf7"
+  },
+  "name": "Blindbox Baby Three 1000% Big Baby",
+  "description": "Blindbox Baby Three 1000% Big Baby phù hợp làm quà tặng.",
+  "price": 5250000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 20,
+  "images": [
+    "BLB9.webp",
+    "BLB9.1.webp",
+    "BLB9.2.webp",
+    "BLB9.3.webp",
+    "BLB9.4.webp",
+    "BLB9.5.webp",
+    "BLB9.6.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6810f87517e05da002e59bf8"
+  },
+  "name": "Blindbox Yooki V3 Warm Bunny",
+  "description": "Blindbox Yooki V3 Warm Bunny phù hợp làm quà tặng.",
+  "price": 360000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-04-16T00:00:00.000Z"
+  },
+  "sold": 58,
+  "images": [
+    "BLB10.1.webp",
+    "BLB10.2.webp",
+    "BLB10.3.webp",
+    "BLB10.4.webp",
+    "BLB10.5.webp",
+    "BLB10.6.webp",
+    "BLB10.7.webp",
+    "BLB10.8.webp",
+    "BLB10.9.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6810f8bb17e05da002e59bf9"
+  },
+  "name": "Blindbox Baby Three Thỏ Macaron V2",
+  "description": "Blindbox Baby Three Thỏ Macaron V2 phù hợp làm quà tặng.",
+  "price": 245000,
+  "categoryId": {
+    "$oid": "6815222d15f0aee3d252f93e"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 95,
+  "images": [
+    "BLB11.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6810f90217e05da002e59bfa"
+  },
+  "name": "Blindbox Baby Three Happy Day",
+  "description": "Blindbox Baby Three Happy Dayphù hợp làm quà tặng.",
+  "price": 276500,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-04-16T00:00:00.000Z"
+  },
+  "sold": 78,
+  "images": [
+    "BLB12.webp",
+    "BLB12.1.webp",
+    "BLB12.2.webp",
+    "BLB12.3.webp",
+    "BLB12.4.webp",
+    "BLB12.5.webp",
+    "BLB12.6.webp",
+    "BLB12.7.webp",
+    "BLB12.8.webp",
+    "BLB12.9.webp",
+    "BLB12.10.webp",
+    "BLB12.11.webp",
+    "BLB12.12.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6810f94517e05da002e59bfb"
+  },
+  "name": "Blindbox Baby Three V3 Mini",
+  "description": "Blindbox Baby Three V3 Miniphù hợp làm quà tặng.",
+  "price": 245000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 45,
+  "images": [
+    "BLB13.webp",
+    "BLB13.1.webp",
+    "BLB13.2.webp",
+    "BLB13.3.webp",
+    "BLB13.4.webp",
+    "BLB13.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6810f98e17e05da002e59bfc"
+  },
+  "name": "Blindbox Yooki 400%",
+  "description": "Blindbox Yooki 400% phù hợp làm quà tặng.",
+  "price": 750000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-03-16T00:00:00.000Z"
+  },
+  "sold": 42,
+  "images": [
+    "BLB14.webp",
+    "BLB14.1.webp",
+    "BLB14.2.webp",
+    "BLB14.3.webp",
+    "BLB14.4.webp",
+    "BLB14.5.webp",
+    "BLB14.6.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6810f9bb17e05da002e59bfd"
+  },
+  "name": "Blindbox Baby Three Liila Lucky Cat V3",
+  "description": "Blindbox Baby Three Liila Lucky Cat V3 phù hợp làm quà tặng.",
+  "price": 280000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 69,
+  "images": [
+    "BLB15.webp",
+    "BLB15.1.webp",
+    "BLB15.2.webp",
+    "BLB15.3.webp",
+    "BLB15.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6826ba00f9e648674d9aeba0"
+  },
+  "name": "Blindbox Migo 400%",
+  "description": "Blindbox Migo 400%, phù hợp làm quà tặng.",
+  "price": 795000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 25,
+  "images": [
+    "BLB16.webp",
+    "BLB16.1.webp",
+    "BLB16.2.webp",
+    "BLB16.3.webp",
+    "BLB16.4.webp",
+    "BLB16.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6826ba71f9e648674d9aeba2"
+  },
+  "name": "Blindbox Baby Three Gương Thần",
+  "description": "Blindbox Baby Three Gương Thần, phù hợp làm quà tặng.",
+  "price": 495000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 34,
+  "images": [
+    "BLB17.webp",
+    "BLB17.1.webp",
+    "BLB17.2.webp",
+    "BLB17.3.webp",
+    "BLB17.4.webp",
+    "BLB17.5.webp",
+    "BLB17.6.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6826baaff9e648674d9aeba3"
+  },
+  "name": "Blindbox Tyke 3 Happy Picnic",
+  "description": "Blindbox Tyke 3 Happy Picnic, phù hợp làm quà tặng.",
+  "price": 330000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 0,
+  "images": [
+    "BLB18.webp",
+    "BLB18.1.webp",
+    "BLB18.2.webp",
+    "BLB18.3.webp",
+    "BLB18.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6826badef9e648674d9aeba4"
+  },
+  "name": "Blindbox Midoo 500%",
+  "description": "Blindbox Midoo 500% phù hợp làm quà tặng.",
+  "price": 750000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 15,
+  "images": [
+    "BLB19.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6826bb0cf9e648674d9aeba5"
+  },
+  "name": "Blindbox Yaya Mini Fun Fruit",
+  "description": "Blindbox Yaya Mini Fun Fruit, phù hợp làm quà tặng.",
+  "price": 145000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 25,
+  "images": [
+    "BLB20.webp",
+    "BLB20.1.webp",
+    "BLB20.2.webp",
+    "BLB20.3.webp",
+    "BLB20.4.webp",
+    "BLB20.5.webp",
+    "BLB20.6.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6826bb69f9e648674d9aeba6"
+  },
+  "name": "Blindbox Yaya Mini V1",
+  "description": "Blindbox Yaya Mini V1 phù hợp làm quà tặng.",
+  "price": 145000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 2,
+  "images": [
+    "BLB21.webp",
+    "BLB21.1.webp",
+    "BLB21.2.webp",
+    "BLB21.3.webp",
+    "BLB21.4.webp",
+    "BLB21.5.webp",
+    "BLB21.6.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6826bc1ef9e648674d9aeba7"
+  },
+  "name": "Blindbox Doubao V1",
+  "description": "Blindbox Doubao V1 phù hợp làm quà tặng.",
+  "price": 220000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 6,
+  "images": [
+    "BLB22.webp",
+    "BLB22.1.webp",
+    "BLB22.2.webp",
+    "BLB22.3.webp",
+    "BLB22.4.webp",
+    "BLB22.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6826bc50f9e648674d9aeba8"
+  },
+  "name": "Blindbox Baby Three 400% Ver 1",
+  "description": "Blindbox Baby Three 400% Ver 1, phù hợp làm quà tặng.",
+  "price": 895000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 9,
+  "images": [
+    "BLB23.webp",
+    "BLB23.1.webp",
+    "BLB23.2.webp",
+    "BLB23.3.webp",
+    "BLB23.4.webp",
+    "BLB23.5.webp",
+    "BLB23.6.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6826bca5f9e648674d9aeba9"
+  },
+  "name": "Blindbox Migo Rạp Xiếc",
+  "description": "Blindbox Migo Rạp Xiếc phù hợp làm quà tặng.",
+  "price": 250000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 16,
+  "images": [
+    "BLB24.webp",
+    "BLB24.1.webp",
+    "BLB24.2.webp",
+    "BLB24.3.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6826bcd0f9e648674d9aebaa"
+  },
+  "name": "Blindbox Baby Three V3",
+  "description": "Blindbox Baby Three V3, phù hợp làm quà tặng.",
+  "price": 490000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 15,
+  "images": [
+    "BLB25.webp",
+    "BLB25.1.webp",
+    "BLB25.2.webp",
+    "BLB25.3.webp",
+    "BLB25.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6826bdcdf9e648674d9aebab"
+  },
+  "name": "Blindbox Baby Three Zipper V1",
+  "description": "Blindbox Baby Three Zipper V1 phù hợp làm quà tặng.",
+  "price": 280000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 25,
+  "images": [
+    "BLB26.webp",
+    "BLB26.1.webp",
+    "BLB26.2.webp",
+    "BLB26.3.webp",
+    "BLB26.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6826be49f9e648674d9aebac"
+  },
+  "name": "Blindbox Fluffy Meatball",
+  "description": "Blindbox Fluffy Meatball phù hợp làm quà tặng.",
+  "price": 340000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 18,
+  "images": [
+    "BLB27.webp",
+    "BLB27.1.webp",
+    "BLB27.2.webp",
+    "BLB27.3.webp",
+    "BLB27.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6826bfe1f9e648674d9aebad"
+  },
+  "name": "Blindbox Baby Three Mèo Tỷ Phú",
+  "description": "Blindbox Baby Three Mèo Tỷ Phú phù hợp làm quà tặng.",
+  "price": 390000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 38,
+  "images": [
+    "BLB28.webp",
+    "BLB28.1.webp",
+    "BLB28.2.webp",
+    "BLB28.3.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6826c00ef9e648674d9aebae"
+  },
+  "name": "Blindbox Baby Three Zipper V2",
+  "description": "Blindbox Baby Three Zipper V2 phù hợp làm quà tặng.",
+  "price": 320000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 25,
+  "images": [
+    "BLB29.webp",
+    "BLB29.1.webp",
+    "BLB29.2.webp",
+    "BLB29.3.webp",
+    "BLB29.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6826c052f9e648674d9aebaf"
+  },
+  "name": "Blindbox Q Kid Animal Pre-school",
+  "description": "Blindbox Q Kid Animal Pre-school phù hợp làm quà tặng.",
+  "price": 430000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "BLB30.webp",
+    "BLB30.1.webp",
+    "BLB30.2.webp",
+    "BLB30.3.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6826c0a0f9e648674d9aebb0"
+  },
+  "name": "Blindbox Kimmon V5 Bông Hoa",
+  "description": "Blindbox Kimmon V5 Bông Hoa phù hợp làm quà tặng.",
+  "price": 220000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 58,
+  "images": [
+    "BLB31.webp",
+    "BLB31.1.webp",
+    "BLB31.2.webp",
+    "BLB31.3.webp",
+    "BLB31.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a0b929fbeb869637431b"
+  },
+  "name": "Blindbox Kimmon Túi Đựng Tai Nghe",
+  "description": "Blindbox Kimmon Túi Đựng Tai Nghe phù hợp làm quà tặng.",
+  "price": 231000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 68,
+  "images": [
+    "BLB32.webp",
+    "BLB32.1.webp",
+    "BLB32.2.webp",
+    "BLB32.3.webp",
+    "BLB32.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a0d629fbeb869637431c"
+  },
+  "name": "Blindbox Baby Three Mầm Non",
+  "description": "Blindbox Baby Three Mầm Non phù hợp làm quà tặng.",
+  "price": 280000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 51,
+  "images": [
+    "BLB33.webp",
+    "BLB33.1.webp",
+    "BLB33.2.webp",
+    "BLB33.3.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a10329fbeb869637431d"
+  },
+  "name": "Blindbox Baby Three Cổ Tích",
+  "description": "Blindbox Baby Three Cổ Tích phù hợp làm quà tặng.",
+  "price": 238000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 0,
+  "images": [
+    "BLB34.webp",
+    "BLB34.1.webp",
+    "BLB34.2.webp",
+    "BLB34.3.webp",
+    "BLB34.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a12e29fbeb869637431e"
+  },
+  "name": "Blindbox Baby Three Tây Du Ký",
+  "description": "Blindbox Baby Three Tây Du Ký phù hợp làm quà tặng.",
+  "price": 224000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 65,
+  "images": [
+    "BLB35.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a14e29fbeb869637431f"
+  },
+  "name": "Blindbox Miyee Cafe",
+  "description": "Blindbox Miyee Cafe phù hợp làm quà tặng.",
+  "price": 280000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 25,
+  "images": [
+    "BLB36.webp",
+    "BLB36.1.webp",
+    "BLB36.2.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a17329fbeb8696374320"
+  },
+  "name": "Blindbox Migo Bữa Tiệc Động Vật",
+  "description": "Blindbox Migo Bữa Tiệc Động Vật phù hợp làm quà tặng.",
+  "price": 175000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 9,
+  "images": [
+    "BLB37.webp",
+    "BLB37.1.webp",
+    "BLB37.2.webp",
+    "BLB37.3.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a19229fbeb8696374321"
+  },
+  "name": "Blindbox LiliSha",
+  "description": "Blindbox LiliSha phù hợp làm quà tặng.",
+  "price": 280000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 21,
+  "images": [
+    "BLB38.webp",
+    "BLB38.2.webp",
+    "BLB38.3.webp",
+    "BLB38.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a1c029fbeb8696374322"
+  },
+  "name": "Blindbox Nommi V1 Đáng Yêu Vô Cùng",
+  "description": "Blindbox Nommi V1 Đáng Yêu Vô Cùng phù hợp làm quà tặng.",
+  "price": 430000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 19,
+  "images": [
+    "BLB39.webp",
+    "BLB39.1.webp",
+    "BLB39.2.webp",
+    "BLB39.3.webp",
+    "BLB39.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a1e029fbeb8696374323"
+  },
+  "name": "Blindbox Baby Three Mèo Joymiya",
+  "description": "Blindbox Baby Three Mèo Joymiya phù hợp làm quà tặng.",
+  "price": 350000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 24,
+  "images": [
+    "BLB40.webp",
+    "BLB40.1.webp",
+    "BLB40.2.webp",
+    "BLB40.3.webp",
+    "BLB40.4.webp",
+    "BLB40.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a20229fbeb8696374324"
+  },
+  "name": "Blindbox Kimmon V6 Mimon",
+  "description": "Blindbox Kimmon V6 Mimon phù hợp làm quà tặng.",
+  "price": 224000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 17,
+  "images": [
+    "BLB41.webp",
+    "BLB41.1.webp",
+    "BLB41.2.webp",
+    "BLB41.3.webp",
+    "BLB41.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a22e29fbeb8696374325"
+  },
+  "name": "Blindbox Kimmon Trái Cây",
+  "description": "Blindbox Kimmon Trái Cây phù hợp làm quà tặng.",
+  "price": 203000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 17,
+  "images": [
+    "BLB42.webp",
+    "BLB42.1.webp",
+    "BLB42.2.webp",
+    "BLB4.3.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a25029fbeb8696374326"
+  },
+  "name": "Blindbox Kimmon V9",
+  "description": "Blindbox Kimmon V9 phù hợp làm quà tặng.",
+  "price": 310000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 12,
+  "images": [
+    "BLB43.webp",
+    "BLB43.1.webp",
+    "BLB43.2.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a27929fbeb8696374327"
+  },
+  "name": "Blindbox Migo Bedtime Story",
+  "description": "Blindbox Migo Bedtime Story phù hợp làm quà tặng.",
+  "price": 273000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 19,
+  "images": [
+    "BLB44.webp",
+    "BLB44.1.webp",
+    "BLB44.2.webp",
+    "BLB44.3.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a29a29fbeb8696374328"
+  },
+  "name": "Blindbox Matata Hooligan Academy V2",
+  "description": "Blindbox Matata Hooligan Academy V2 phù hợp làm quà tặng.",
+  "price": 252000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 39,
+  "images": [
+    "BLB45.webp",
+    "BLB45.1.webp",
+    "BLB45.2.webp",
+    "BLB45.3.webp",
+    "BLB45.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a2b929fbeb8696374329"
+  },
+  "name": "Blindbox Mido V1 Cute Pet Team",
+  "description": "Blindbox Mido V1 Cute Pet Team phù hợp làm quà tặng.",
+  "price": 196000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 19,
+  "images": [
+    "BLB46.webp",
+    "BLB46.1.webp",
+    "BLB46.2.webp",
+    "BLB46.3.webp",
+    "BLB46.4.webp",
+    "BLB46.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a2de29fbeb869637432a"
+  },
+  "name": "Blindbox Kimmon V7",
+  "description": "Blindbox Kimmon V7 phù hợp làm quà tặng.",
+  "price": 340000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 9,
+  "images": [
+    "BLB47.webp",
+    "BLB47.1.webp",
+    "BLB47.2.webp",
+    "BLB47.3.webp",
+    "BLB47.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a34329fbeb869637432b"
+  },
+  "name": "Blindbox Kimmon V2",
+  "description": "Blindbox Kimmon V2 phù hợp làm quà tặng.",
+  "price": 390000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 7,
+  "images": [
+    "BLB48.webp",
+    "BLB48.1.webp",
+    "BLB48.2.webp",
+    "BLB48.3.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a37029fbeb869637432c"
+  },
+  "name": "Balo Kimmon Mimon – Xanh Dương",
+  "description": "Balo Kimmon Mimon – Xanh Dương phù hợp làm quà tặng.",
+  "price": 447500,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 6,
+  "images": [
+    "BLB49.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a39729fbeb869637432d"
+  },
+  "name": "Blindbox Mido V2 Cute Baby Out On The Street",
+  "description": "Blindbox Mido V2 Cute Baby Out On The Street phù hợp làm quà tặng.",
+  "price": 350000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 2,
+  "images": [
+    "BLB50.webp",
+    "BLB50.1.webp",
+    "BLB50.2.webp",
+    "BLB50.3.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a3ca29fbeb869637432e"
+  },
+  "name": "Balo Kimmon Mimon – Be",
+  "description": "Balo Kimmon Mimon – Be phù hợp làm quà tặng.",
+  "price": 447500,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 120,
+  "images": [
+    "BLB51.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a3f229fbeb869637432f"
+  },
+  "name": "Blindbox Baby Three Cung Hoàng Đạo",
+  "description": "Blindbox Baby Three Cung Hoàng Đạo phù hợp làm quà tặng.",
+  "price": 330000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 100,
+  "images": [
+    "BLB52.webp",
+    "BLB52.1.webp",
+    "BLB52.2.webp",
+    "BLB52.3.webp",
+    "BLB52.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a41329fbeb8696374330"
+  },
+  "name": "Blindbox Baby Three 12 Con Giáp",
+  "description": "Blindbox Baby Three 12 Con Giáp phù hợp làm quà tặng.",
+  "price": 490000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 109,
+  "images": [
+    "BLB53.webp",
+    "BLB53.1.webp",
+    "BLB53.2.webp",
+    "BLB53.3.webp",
+    "BLB53.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a43b29fbeb8696374331"
+  },
+  "name": "Blindbox Baby Three Côn Trùng",
+  "description": "Blindbox Baby Three Côn Trùng phù hợp làm quà tặng.",
+  "price": 224000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 98,
+  "images": [
+    "BLB54.webp",
+    "BLB54.1.webp",
+    "BLB54.2.webp",
+    "BLB54.3.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a45829fbeb8696374332"
+  },
+  "name": "Blindbox Nommi Trái Cây",
+  "description": "Blindbox Nommi Trái Cây phù hợp làm quà tặng.",
+  "price": 430000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 58,
+  "images": [
+    "BLB55.webp",
+    "BLB55.1.webp",
+    "BLB55.2.webp",
+    "BLB55.3.webp",
+    "BLB55.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a48929fbeb8696374333"
+  },
+  "name": "Blindbox Baby Three Mèo Thần Tài Zipper",
+  "description": "Blindbox Baby Three Mèo Thần Tài Zipper phù hợp làm quà tặng.",
+  "price": 520000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 28,
+  "images": [
+    "BLB56.webp",
+    "BLB56.1.webp",
+    "BLB56.2.webp",
+    "BLB56.3.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a4aa29fbeb8696374334"
+  },
+  "name": "Blindbox Baby Three Hải Sản",
+  "description": "Blindbox Baby Three Hải Sản phù hợp làm quà tặng.",
+  "price": 330000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 85,
+  "images": [
+    "BLB57.webp",
+    "BLB57.1.webp",
+    "BLB57.2.webp",
+    "BLB57.3.webp",
+    "BLB57.4.webp",
+    "BLB57.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a4d129fbeb8696374335"
+  },
+  "name": "Túi Đeo Chéo Kimmon – Be",
+  "description": "Túi Đeo Chéo Kimmon – Be phù hợp làm quà tặng.",
+  "price": 377500,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 94,
+  "images": [
+    "BLB58.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a4f729fbeb8696374336"
+  },
+  "name": "Blindbox Tyke 3 Cung Hoàng Đạo",
+  "description": "Blindbox Tyke 3 Cung Hoàng Đạophù hợp làm quà tặng.",
+  "price": 161000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 77,
+  "images": [
+    "BLB59.webp",
+    "BLB59.1.webp",
+    "BLB59.2.webp",
+    "BLB59.3.webp",
+    "BLB59.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a51c29fbeb8696374337"
+  },
+  "name": "Blindbox Migo V3 Full Body",
+  "description": "Blindbox Migo V3 Full Body phù hợp làm quà tặng.",
+  "price": 245000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 97,
+  "images": [
+    "BLB60.webp",
+    "BLB60.1.webp",
+    "BLB60.2.webp",
+    "BLB60.3.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a54429fbeb8696374338"
+  },
+  "name": "Blindbox Nommi Good Night Bear 400%",
+  "description": "Blindbox Nommi Good Night Bear 400% phù hợp làm quà tặng.",
+  "price": 950000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 85,
+  "images": [
+    "BLB61.webp",
+    "BLB61.1.webp",
+    "BLB61.2.webp",
+    "BLB61.3.webp",
+    "BLB61.4.webp",
+    "BLB61.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a57129fbeb8696374339"
+  },
+  "name": "Blindbox Baby Three Trái Cây",
+  "description": "Blindbox Baby Three Trái Cây phù hợp làm quà tặng.",
+  "price": 196000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 44,
+  "images": [
+    "BLB62.webp",
+    "BLB62.1.webp",
+    "BLB62.2.webp",
+    "BLB62.3.webp",
+    "BLB62.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a59b29fbeb869637433a"
+  },
+  "name": "Blindbox Yooki V2",
+  "description": "Blindbox Yooki V2 phù hợp làm quà tặng.",
+  "price": 350000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 36,
+  "images": [
+    "BLB63.webp",
+    "BLB63.1.webp",
+    "BLB63.2.webp",
+    "BLB63.3.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a5bc29fbeb869637433b"
+  },
+  "name": "Blindbox Migo Travel",
+  "description": "Blindbox Migo Travel phù hợp làm quà tặng.",
+  "price": 175000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 28,
+  "images": [
+    "BLB64.webp",
+    "BLB64.1.webp",
+    "BLB64.2.webp",
+    "BLB64.3.webp",
+    "BLB64.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a5d929fbeb869637433c"
+  },
+  "name": "Blindbox Baby Three V1",
+  "description": "Blindbox Baby Three V1 phù hợp làm quà tặng.",
+  "price": 250000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 59,
+  "images": [
+    "BLB65.webp",
+    "BLB65.1.webp",
+    "BLB65.2.webp",
+    "BLB65.3.webp",
+    "BLB65.4.webp",
+    "BLB65.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a5fb29fbeb869637433d"
+  },
+  "name": "Blindbox Manchao Thú Cưng Nghịch Ngợm V1",
+  "description": "Blindbox Manchao Thú Cưng Nghịch Ngợm V1 phù hợp làm quà tặng.",
+  "price": 320000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 66,
+  "images": [
+    "BLB66.webp",
+    "BLB66.1.webp",
+    "BLB66.2.webp",
+    "BLB66.3.webp",
+    "BLB66.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a63129fbeb869637433e"
+  },
+  "name": "Blindbox Liila Zoo 600%",
+  "description": "Blindbox Liila Zoo 600% phù hợp làm quà tặng.",
+  "price": 850000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 55,
+  "images": [
+    "BLB67.webp",
+    "BLB67.1.webp",
+    "BLB67.2.webp",
+    "BLB67.3.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a66529fbeb869637433f"
+  },
+  "name": "Túi Đeo Chéo Kimmon – Nâu",
+  "description": "Túi Đeo Chéo Kimmon – Nâu phù hợp làm quà tặng.",
+  "price": 447500,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 29,
+  "images": [
+    "BLB68.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a68429fbeb8696374340"
+  },
+  "name": "Túi Đeo Chéo Kimmon – Xanh Đỏ",
+  "description": "Túi Đeo Chéo Kimmon – Xanh Đỏ phù hợp làm quà tặng.",
+  "price": 377500,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 95,
+  "images": [
+    "BLB69.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a6b129fbeb8696374341"
+  },
+  "name": "Blindbox Liila V4 Chef Kitten",
+  "description": "Blindbox Liila V4 Chef Kitten phù hợp làm quà tặng.",
+  "price": 185500,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 123,
+  "images": [
+    "BLB70.webp",
+    "BLB70.1.webp",
+    "BLB70.2.webp",
+    "BLB70.3.webp",
+    "BLB70.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829a6e529fbeb8696374342"
+  },
+  "name": "Blindbox Kimmon Túi Đeo Chéo",
+  "description": "Blindbox Kimmon Túi Đeo Chéo phù hợp làm quà tặng.",
+  "price": 450000,
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 87,
+  "images": [
+    "BLB71.webp",
+    "BLB71.1.webp",
+    "BLB71.2.webp",
+    "BLB71.3.webp",
+    "BLB71.4.webp",
+    "BLB71.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829ac6e29fbeb8696374346"
+  },
+  "name": "Bộ Thú Bông Mẹ Con",
+  "description": "Bộ Thú Bông Mẹ Con phù hợp làm quà tặng.",
+  "price": 325000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 46,
+  "images": [
+    "kids.webp",
+    "kids0.1.webp",
+    "kids0.2.webp",
+    "kids0.3.webp",
+    "kids0.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829e69c29fbeb8696374347"
+  },
+  "name": "Gấu Bông Hello Kitty Yếm Váy Caro",
+  "description": "Gấu Bông Hello Kitty Yếm Váy Carophù hợp làm quà tặng.",
+  "price": 165000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 9,
+  "images": [
+    "kids1.webp",
+    "kids1.1.webp",
+    "kids1.2.webp",
+    "kids1.3.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829e6c529fbeb8696374348"
+  },
+  "name": "Bộ Thú Bông Trái Cây",
+  "description": "Bộ Thú Bông Trái Cây phù hợp làm quà tặng.",
+  "price": 425000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 10,
+  "images": [
+    "kids2.webp",
+    "kids2.1.webp",
+    "kids2.2.webp",
+    "kids2.3.webp",
+    "kids2.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829e6f229fbeb8696374349"
+  },
+  "name": "Chó Bông Puppy Váy Babydoll",
+  "description": "Chó Bông Puppy Váy Babydoll phù hợp làm quà tặng.",
+  "price": 365000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 20,
+  "images": [
+    "kids3.webp",
+    "kids3.1.webp",
+    "kids3.2.webp",
+    "kids3.3.webp",
+    "kids3.4.webp",
+    "kids3.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829e71a29fbeb869637434a"
+  },
+  "name": "Gấu Bông Hươu Cao Cổ",
+  "description": "Gấu Bông Hươu Cao Cổ phù hợp làm quà tặng.",
+  "price": 225000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 30,
+  "images": [
+    "kids4.webp",
+    "kids4.1.webp",
+    "kids4.2.webp",
+    "kids4.3.webp",
+    "kids4.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829e73829fbeb869637434b"
+  },
+  "name": "Gấu Bông Capybara Nằm Ngủ",
+  "description": "Gấu Bông Capybara Nằm Ngủ phù hợp làm quà tặng.",
+  "price": 245000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 40,
+  "images": [
+    "kids5.webp",
+    "kids5.1.webp",
+    "kids5.2.webp",
+    "kids5.3.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829e78529fbeb869637434c"
+  },
+  "name": "Bộ Thú Bông Baby",
+  "description": "Bộ Thú Bông Baby phù hợp làm quà tặng.",
+  "price": 245000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 50,
+  "images": [
+    "kids6.webp",
+    "kids6.1.webp",
+    "kids6.2.webp",
+    "kids6.3.webp",
+    "kids6.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829e7ad29fbeb869637434d"
+  },
+  "name": "Gấu Bông Bộ Mũ Cosplay",
+  "description": "Gấu Bông Bộ Mũ Cosplay phù hợp làm quà tặng.",
+  "price": 315000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 60,
+  "images": [
+    "kids7.webp",
+    "kids7.1.webp",
+    "kids7.2.webp",
+    "kids7.3.webp",
+    "kids7.4.webp",
+    "kids7.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829e7de29fbeb869637434e"
+  },
+  "name": "Bộ 4 Thú Bông Caramel",
+  "description": "Bộ 4 Thú Bông Caramel phù hợp làm quà tặng.",
+  "price": 375000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 70,
+  "images": [
+    "kids8.webp",
+    "kids8.1.webp",
+    "kids8.2.webp",
+    "kids8.3.webp",
+    "kids8.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829e81129fbeb869637434f"
+  },
+  "name": "Gấu Bông Sprunki Có Tay",
+  "description": "Gấu Bông Sprunki phù hợp làm quà tặng.",
+  "price": 65000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 80,
+  "images": [
+    "kids9.webp",
+    "kids9.1.webp",
+    "kids9.2.webp",
+    "kids9.3.webp",
+    "kids9.4.webp",
+    "kids9.5.webp",
+    "kids9.6.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829e83c29fbeb8696374350"
+  },
+  "name": "Bộ Thú Bông Yếm Váy – Sóc Nâu",
+  "description": "Bộ Thú Bông Yếm Váy – Sóc Nâu phù hợp làm quà tặng.",
+  "price": 385000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 90,
+  "images": [
+    "kids10.webp",
+    "kids10.1.webp",
+    "kids10.2.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6829e86629fbeb8696374351"
+  },
+  "name": "Gấu Bông Sprunki",
+  "description": "Gấu Bông Sprunki Có Tay phù hợp làm quà tặng.",
+  "price": 85000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 100,
+  "images": [
+    "kids11.webp",
+    "kids11.1.webp",
+    "kids11.2.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682ae758403fabf637f37a77"
+  },
+  "name": "Gấu Bông Capybara Bồn Tắm",
+  "description": "Gấu Bông Capybara Bồn Tắm phù hợp làm quà tặng.",
+  "price": 285000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 110,
+  "images": [
+    "kids12.webp",
+    "kids12.1.webp",
+    "kids12.2.webp",
+    "kids12.3.webp",
+    "kids12.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682ae77c403fabf637f37a78"
+  },
+  "name": "Bộ Thú Bông Yếm Váy – Cáo Cam",
+  "description": "Bộ Thú Bông Yếm Váy – Cáo Cam phù hợp làm quà tặng.",
+  "price": 215000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 120,
+  "images": [
+    "kids13.webp",
+    "kids13.1.webp",
+    "kids13.2.webp",
+    "kids13.3.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682ae7ae403fabf637f37a79"
+  },
+  "name": "Bộ Thú Bông Yếm Váy – Sói Xám",
+  "description": "Bộ Thú Bông Yếm Váy – Sói Xám phù hợp làm quà tặng.",
+  "price": 215000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 130,
+  "images": [
+    "kids14.webp",
+    "kids14.1.webp",
+    "kids14.2.webp",
+    "kids14.3.webp",
+    "kids14.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682ae7ea403fabf637f37a7a"
+  },
+  "name": "Gấu Bông Ngao Bính",
+  "description": "Gấu Bông Ngao Bính phù hợp làm quà tặng.",
+  "price": 145000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 140,
+  "images": [
+    "kids15.webp",
+    "kids15.1.webp",
+    "kids15.2.webp",
+    "kids15.3.webp",
+    "kids15.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682ae8f5403fabf637f37a7c"
+  },
+  "name": "Gấu Bông Natra Cosplay Gấu Trúc",
+  "description": "Gấu Bông Natra Cosplay Gấu Trúc phù hợp làm quà tặng.",
+  "price": 145000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 150,
+  "images": [
+    "kids16.webp",
+    "kids16.1.webp",
+    "kids16.2.webp",
+    "kids16.3.webp",
+    "kids16.4.webp",
+    "kids16.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682ae921403fabf637f37a7d"
+  },
+  "name": "Gấu Bông Phi Thiên Thần Trư",
+  "description": "Gấu Bông Phi Thiên Thần Trư phù hợp làm quà tặng.",
+  "price": 85000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 160,
+  "images": [
+    "kids17.webp",
+    "kids17.1.webp",
+    "kids17.2.webp",
+    "kids17.3.webp",
+    "kids17.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682ae943403fabf637f37a7e"
+  },
+  "name": "Gấu Bông Voi Nâu Trầm Lặng",
+  "description": "Gấu Bông Voi Nâu Trầm Lặng phù hợp làm quà tặng.",
+  "price": 345000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 170,
+  "images": [
+    "kids18.webp",
+    "kids18.1.webp",
+    "kids18.2.webp",
+    "kids18.3.webp",
+    "kids18.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682ae95d403fabf637f37a7f"
+  },
+  "name": "Chó Bông Puppy Dũng Cảm",
+  "description": "Chó Bông Puppy Dũng Cảm phù hợp làm quà tặng.",
+  "price": 345000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 180,
+  "images": [
+    "kids19.webp",
+    "kids19.1.webp",
+    "kids19.2.webp",
+    "kids19.3.webp",
+    "kids19.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682ae97d403fabf637f37a80"
+  },
+  "name": "Gấu Bông Cừu Con Ngây Thơ",
+  "description": "Gấu Bông Cừu Con Ngây Thơ phù hợp làm quà tặng.",
+  "price": 345000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 190,
+  "images": [
+    "kids20.webp",
+    "kids20.1.webp",
+    "kids20.2.webp",
+    "kids20.3.webp",
+    "kids20.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682ae996403fabf637f37a81"
+  },
+  "name": "Gấu Bông Voi Xám Lém Lỉnh",
+  "description": "Gấu Bông Voi Xám Lém Lỉnh phù hợp làm quà tặng.",
+  "price": 345000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": "200",
+  "images": [
+    "kids21.webp",
+    "kids21.1.webp",
+    "kids21.2.webp",
+    "kids21.3.webp",
+    "kids21.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682ae9dd403fabf637f37a82"
+  },
+  "name": "Bộ Thú Bông Yếm Váy – Thỏ Hồng",
+  "description": "Bộ Thú Bông Yếm Váy – Thỏ Hồng phù hợp làm quà tặng.",
+  "price": 385000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 15,
+  "images": [
+    "kids22.webp",
+    "kids22.1.webp",
+    "kids22.2.webp",
+    "kids22.3.webp",
+    "kids22.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682aea06403fabf637f37a83"
+  },
+  "name": "Gấu Bông Kitty Đội Phao Hồng",
+  "description": "Gấu Bông Kitty Đội Phao Hồng phù hợp làm quà tặng.",
+  "price": 155000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 28,
+  "images": [
+    "kids23.webp",
+    "kids23.1.webp",
+    "kids23.2.webp",
+    "kids23.3.webp",
+    "kids23.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682aea2e403fabf637f37a84"
+  },
+  "name": "Gấu Bông Shin Cosplay Cánh Cụt",
+  "description": "Gấu Bông Shin Cosplay Cánh Cụt phù hợp làm quà tặng.",
+  "price": 155000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 18,
+  "images": [
+    "kids24.webp",
+    "kids24.1.webp",
+    "kids24.2.webp",
+    "kids24.3.webp",
+    "kids24.4.webp",
+    "kids24.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682aea59403fabf637f37a85"
+  },
+  "name": "Gấu Bông Migo",
+  "description": "Gấu Bông Migo phù hợp làm quà tặng.",
+  "price": 90000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 58,
+  "images": [
+    "kids25.webp",
+    "kids25.1.webp",
+    "kids25.2.webp",
+    "kids25.3.webp",
+    "kids25.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682aea7a403fabf637f37a86"
+  },
+  "name": "Bộ 3 Thỏ Bông Áo Choàng",
+  "description": "Bộ 3 Thỏ Bông Áo Choàng phù hợp làm quà tặng.",
+  "price": 255000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 48,
+  "images": [
+    "kids26.webp",
+    "kids26.1.webp",
+    "kids26.2.webp",
+    "kids26.3.webp",
+    "kids26.4.webp",
+    "kids26.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682aeaaa403fabf637f37a87"
+  },
+  "name": "Bộ 3 Gấu Bông Bánh Sinh Nhật",
+  "description": "Bộ 3 Gấu Bông Bánh Sinh Nhật phù hợp làm quà tặng.",
+  "price": 325000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 89,
+  "images": [
+    "kids27.webp",
+    "kids27.1.webp",
+    "kids27.2.webp",
+    "kids27.3.webp",
+    "kids27.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682aeafe403fabf637f37a88"
+  },
+  "name": "Gấu Bông Kitty Váy Kẻ",
+  "description": "Gấu Bông Kitty Váy Kẻ phù hợp làm quà tặng.",
+  "price": 195000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 28,
+  "images": [
+    "kids28.webp",
+    "kids28.1.webp",
+    "kids28.2.webp",
+    "kids28.3.webp",
+    "kids28.4.webp",
+    "kids28.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682aeb2a403fabf637f37a89"
+  },
+  "name": "Gấu Bông Baby Three 12 Con Giáp",
+  "description": "Gấu Bông Baby Three 12 Con Giáp phù hợp làm quà tặng.",
+  "price": 95000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 19,
+  "images": [
+    "kids29.webp",
+    "kids29.1.webp",
+    "kids29.2.webp",
+    "kids29.3.webp",
+    "kids29.4.webp",
+    "kids29.5.webp",
+    "kids29.6.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682aeb4d403fabf637f37a8a"
+  },
+  "name": "Gấu Bông Em Bé Chất",
+  "description": "Gấu Bông Em Bé Chất phù hợp làm quà tặng.",
+  "price": 199000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 19,
+  "images": [
+    "kids30.webp",
+    "kids30.1.webp",
+    "kids30.2.webp",
+    "kids30.3.webp",
+    "kids30.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682aebd2403fabf637f37a8b"
+  },
+  "name": "Gấu Bông Hello Kitty Thêu Cầu Vồng",
+  "description": "Gấu Bông Hello Kitty Thêu Cầu Vồng phù hợp làm quà tặng.",
+  "price": 155000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 91,
+  "images": [
+    "kids31.webp",
+    "kids31.1.webp",
+    "kids31.2.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682aecbb403fabf637f37a8c"
+  },
+  "name": "Gấu Bông Rồng Baby",
+  "description": "Gấu Bông Rồng Baby phù hợp làm quà tặng.",
+  "price": 155000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "kids32.webp",
+    "kids32.1.webp",
+    "kids32.2.webp",
+    "kids32.3.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682aecef403fabf637f37a8d"
+  },
+  "name": "Gấu Bông Shin Cosplay Kuromi Tím",
+  "description": "Gấu Bông Shin Cosplay Kuromi Tím phù hợp làm quà tặng.",
+  "price": 255000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 14,
+  "images": [
+    "kids33.webp",
+    "kids33.1.webp",
+    "kids33.2.webp",
+    "kids33.3.webp",
+    "kids33.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682aed0f403fabf637f37a8e"
+  },
+  "name": "Gấu Bông Shin Cosplay Ong Vàng",
+  "description": "Gấu Bông Shin Cosplay Ong Vàng phù hợp làm quà tặng.",
+  "price": 375000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 33,
+  "images": [
+    "kids34.webp",
+    "kids34.1.webp",
+    "kids34.2.webp",
+    "kids34.3.webp",
+    "kids34.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682aed37403fabf637f37a8f"
+  },
+  "name": "Gấu Bông Shin Cosplay Thỏ Hồng",
+  "description": "Gấu Bông Shin Cosplay Thỏ Hồng phù hợp làm quà tặng.",
+  "price": 555000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 42,
+  "images": [
+    "kids35.webp",
+    "kids35.1.webp",
+    "kids35.2.webp",
+    "kids35.3.webp",
+    "kids35.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682aed64403fabf637f37a90"
+  },
+  "name": "Gấu Bông Pochacco Đội Bánh Việt Quất",
+  "description": "Gấu Bông Pochacco Đội Bánh Việt Quất phù hợp làm quà tặng.",
+  "price": 135000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 55,
+  "images": [
+    "kids36.webp",
+    "kids36.1.webp",
+    "kids36.2.webp",
+    "kids36.3.webp",
+    "kids36.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682aed94403fabf637f37a91"
+  },
+  "name": "Búp Bê Bông Mũ Kuromi",
+  "description": "Búp Bê Bông Mũ Kuromi phù hợp làm quà tặng.",
+  "price": 145000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 45,
+  "images": [
+    "kids37.webp",
+    "kids37.1.webp",
+    "kids37.2.webp",
+    "kids37.3.webp",
+    "kids37.4.webp",
+    "kids37.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682aedc6403fabf637f37a92"
+  },
+  "name": "Thỏ Bông Đeo Nơ",
+  "description": "Thỏ Bông Đeo Nơ phù hợp làm quà tặng.",
+  "price": 115000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 35,
+  "images": [
+    "kids38.webp",
+    "kids39.1.webp",
+    "kids39.2.webp",
+    "kids39.3.webp",
+    "kids39.4.webp",
+    "kids39.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682aedf0403fabf637f37a93"
+  },
+  "name": "Bộ Thú Bông Đeo Yếm Đội Nơ",
+  "description": "Bộ Thú Bông Đeo Yếm Đội Nơ phù hợp làm quà tặng.",
+  "price": 355000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 57,
+  "images": [
+    "kids39.webp",
+    "kids38.1.webp",
+    "kids38.2.webp",
+    "kids38.3.webp",
+    "kids38.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682aee18403fabf637f37a94"
+  },
+  "name": "Thỏ Snowball Bộ Xanh",
+  "description": "Thỏ Snowball Bộ Xanh phù hợp làm quà tặng.",
+  "price": 235000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 32,
+  "images": [
+    "kids40.webp",
+    "kids40.1.webp",
+    "kids40.2.webp",
+    "kids40.3.webp",
+    "kids40.4.webp",
+    "kids40.5.webp",
+    "kids40.6.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682aee70403fabf637f37a95"
+  },
+  "name": "Gấu Bông Thỏ Snowball",
+  "description": "Gấu Bông Thỏ Snowball phù hợp làm quà tặng.",
+  "price": 165000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 7,
+  "images": [
+    "kids41.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682aeea0403fabf637f37a96"
+  },
+  "name": "Voi Con Baby Đội Mũ",
+  "description": "Voi Con Baby Đội Mũ phù hợp làm quà tặng.",
+  "price": 385000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 3,
+  "images": [
+    "kids42.webp",
+    "kids42.1.webp",
+    "kids42.2.webp",
+    "kids42.3.webp",
+    "kids42.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682aeec8403fabf637f37a97"
+  },
+  "name": "Gấu Bông Em Bé Lông Xù",
+  "description": "Gấu Bông Em Bé Lông Xù phù hợp làm quà tặng.",
+  "price": 85000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 21,
+  "images": [
+    "kids43.webp",
+    "kids43.1.webp",
+    "kids43.2.webp",
+    "kids43.3.webp",
+    "kids43.4.webp",
+    "kids43.5.webp",
+    "kids43.6.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682aefba403fabf637f37a98"
+  },
+  "name": "Búp Bê Váy Mũ Bèo Tai Thỏ",
+  "description": "Búp Bê Váy Mũ Bèo Tai Thỏ phù hợp làm quà tặng.",
+  "price": 125000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 42,
+  "images": [
+    "kids44.webp",
+    "kids44.1.webp",
+    "kids44.2.webp",
+    "kids44.3.webp",
+    "kids44.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682aefdc403fabf637f37a99"
+  },
+  "name": "Búp Bê Mũ Bèo Áo Len",
+  "description": "Búp Bê Mũ Bèo Áo Len phù hợp làm quà tặng.",
+  "price": 125000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 37,
+  "images": [
+    "kids45.webp",
+    "kids45.1.webp",
+    "kids45.2.webp",
+    "kids45.3.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682af010403fabf637f37a9a"
+  },
+  "name": "Gấu Bông Hello Kitty Mặc Yếm Lotso",
+  "description": "Gấu Bông Hello Kitty Mặc Yếm Lotso phù hợp làm quà tặng.",
+  "price": 165000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 75,
+  "images": [
+    "kids46.webp",
+    "kids46.1.webp",
+    "kids46.2.webp",
+    "kids46.3.webp",
+    "kids46.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682af03c403fabf637f37a9b"
+  },
+  "name": "Gấu Bông Pooh Cosplay Ong",
+  "description": "Gấu Bông Pooh Cosplay Ong phù hợp làm quà tặng.",
+  "price": 495000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 79,
+  "images": [
+    "kids47.webp",
+    "kids47.1.webp",
+    "kids47.2.webp",
+    "kids47.3.webp",
+    "kids47.4.webp",
+    "kids47.5.webp",
+    "kids47.6.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682af080403fabf637f37a9c"
+  },
+  "name": "Thú Nhồi Bông Quả Bóng Đá",
+  "description": "Thú Nhồi Bông Quả Bóng Đá phù hợp làm quà tặng.",
+  "price": 125000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 53,
+  "images": [
+    "kids48.webp",
+    "kids48.1.webp",
+    "kids48.2.webp",
+    "kids48.3.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682af0a3403fabf637f37a9d"
+  },
+  "name": "Thú Bông Tóc Xù",
+  "description": "Thú Bông Tóc Xù phù hợp làm quà tặng.",
+  "price": 225000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 58,
+  "images": [
+    "kids49.webp",
+    "kids49.1.webp",
+    "kids49.2.webp",
+    "kids49.3.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682af0cf403fabf637f37a9e"
+  },
+  "name": "Gấu Bông Doraemon Cosplay Lotso",
+  "description": "Gấu Bông Doraemon Cosplay Lotso phù hợp làm quà tặng.",
+  "price": 225000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 115,
+  "images": [
+    "kids50.webp",
+    "kids50.1.webp",
+    "kids50.2.webp",
+    "kids50.3.webp",
+    "kids50.4.webp",
+    "kids50.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682af0fa403fabf637f37a9f"
+  },
+  "name": "Cừu Bông Xù Ôm Kem",
+  "description": "Cừu Bông Xù Ôm Kem phù hợp làm quà tặng.",
+  "price": 245000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 159,
+  "images": [
+    "kids51.webp",
+    "kids51.1.webp",
+    "kids51.2.webp",
+    "kids51.3.webp",
+    "kids51.4.webp",
+    "kids51.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682af12a403fabf637f37aa0"
+  },
+  "name": "Gấu Bông Minion Niềng Răng",
+  "description": "Gấu Bông Minion Niềng Răng phù hợp làm quà tặng.",
+  "price": 55500,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 175,
+  "images": [
+    "kids52.webp",
+    "kids52.1.webp",
+    "kids52.2.webp",
+    "kids52.3.webp",
+    "kids52.4.webp",
+    "kids52.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682af150403fabf637f37aa1"
+  },
+  "name": "Gấu Bông Em Bé Poodle",
+  "description": "Gấu Bông Em Bé Poodle phù hợp làm quà tặng.",
+  "price": 125000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 148,
+  "images": [
+    "kids53.webp",
+    "kids53.1.webp",
+    "kids53.2.webp",
+    "kids53.3.webp",
+    "kids53.4.webp",
+    "kids53.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682af189403fabf637f37aa2"
+  },
+  "name": "Gấu Bông Melody Váy Hoa Nhí",
+  "description": "Gấu Bông Melody Váy Hoa Nhí phù hợp làm quà tặng.",
+  "price": 245000,
+  "categoryId": {
+    "$oid": "6826a89cfffe451213244074"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 113,
+  "images": [
+    "kids54.webp",
+    "kids54.1.webp",
+    "kids54.2.webp",
+    "kids54.3.webp",
+    "kids54.4.webp",
+    "kids54.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682d9e6ae6f5cf639e1c5335"
+  },
+  "name": "Gấu Bông Cặp Đôi BearHug – Gấu Hugo & Rosie",
+  "description": "Gấu Bông Cặp Đôi BearHug – Gấu Hugo & Rosie phù hợp làm quà tặng.",
+  "price": 285000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 146,
+  "images": [
+    "Couple1.webp",
+    "Couple1.1.webp",
+    "Couple1.2.webp",
+    "Couple1.3.webp",
+    "Couple1.4.webp",
+    "Couple1.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682d9e9ce6f5cf639e1c5336"
+  },
+  "name": "Hộp Quà Capybara",
+  "description": "Hộp Quà Capybara phù hợp làm quà tặng.",
+  "price": 135000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 33,
+  "images": [
+    "Couple2.webp",
+    "couple2.1.webp",
+    "couple2.2.webp",
+    "couple2.3.webp",
+    "couple2.5.webp",
+    "couple2.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682d9ebfe6f5cf639e1c5337"
+  },
+  "name": "Gấu Bông Cặp Đôi BearHug – Thỏ Bunny & Daisy",
+  "description": "Gấu Bông Cặp Đôi BearHug – Thỏ Bunny & Daisy phù hợp làm quà tặng.",
+  "price": 285000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 99,
+  "images": [
+    "Couple3.webp",
+    "Couple3.1.webp",
+    "Couple3.2.webp",
+    "Couple3.3.webp",
+    "Couple3.4.webp",
+    "Couple3.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682d9edee6f5cf639e1c5338"
+  },
+  "name": "Gấu Bông Couple Dâu Rể Capyboo",
+  "description": "Gấu Bông Couple Dâu Rể Capyboo phù hợp làm quà tặng.",
+  "price": 295000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 136,
+  "images": [
+    "Couple4.webp",
+    "Couple4.1.webp",
+    "Couple4.2.webp",
+    "Couple4.3.webp",
+    "Couple4.4.webp",
+    "Couple4.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682d9ef9e6f5cf639e1c5339"
+  },
+  "name": "Gấu Bông Couple Dâu Rể Heo Mimi",
+  "description": "Gấu Bông Couple Dâu Rể Heo Mimi phù hợp làm quà tặng.",
+  "price": 295000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 153,
+  "images": [
+    "Couple5.webp",
+    "Couple5.1.webp",
+    "Couple5.2.webp",
+    "Couple5.3.webp",
+    "Couple5.4.webp",
+    "Couple5.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682d9f14e6f5cf639e1c533a"
+  },
+  "name": "Gấu Bông Teddy Thiên Thần Trắng Đeo Nơ",
+  "description": "Gấu Bông Teddy Thiên Thần Trắng Đeo Nơ phù hợp làm quà tặng.",
+  "price": 495000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 116,
+  "images": [
+    "Couple6.webp",
+    "Couple6.1.webp",
+    "Couple6.2.webp",
+    "Couple6.3.webp",
+    "Couple6.4.webp",
+    "Couple6.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682d9f33e6f5cf639e1c533b"
+  },
+  "name": "Gấu Bông Couple Dâu Rể Thỏ Snowy",
+  "description": "Gấu Bông Couple Dâu Rể Thỏ Snowy phù hợp làm quà tặng.",
+  "price": 295000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 68,
+  "images": [
+    "Couple7.webp",
+    "Couple7.1.webp",
+    "Couple7.2.webp",
+    "Couple7.3.webp",
+    "Couple7.4.webp",
+    "Couple7.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682d9f4ae6f5cf639e1c533c"
+  },
+  "name": "Gấu Bông Lazy Ôm Thỏ",
+  "description": "Gấu Bông Lazy Ôm Thỏ phù hợp làm quà tặng.",
+  "price": 145000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 73,
+  "images": [
+    "Couple8.webp",
+    "Couple8.1.webp",
+    "Couple8.2.webp",
+    "Couple8.3.webp",
+    "Couple8.4.webp",
+    "Couple8.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682d9f63e6f5cf639e1c533d"
+  },
+  "name": "Hộp Nhẫn Bông",
+  "description": "Hộp Nhẫn Bông phù hợp làm quà tặng.",
+  "price": 175000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 153,
+  "images": [
+    "Couple9.webp",
+    "Couple9.1.webp",
+    "Couple9.2.webp",
+    "Couple9.3.webp",
+    "Couple9.4.webp",
+    "Couple9.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682d9f82e6f5cf639e1c533e"
+  },
+  "name": "Gấu Bông Capybara Khung Ảnh",
+  "description": "Gấu Bông Capybara Khung Ảnh phù hợp làm quà tặng.",
+  "price": 195000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 177,
+  "images": [
+    "Couple10.webp",
+    "Couple10.1.webp",
+    "Couple10.2.webp",
+    "Couple10.3.webp",
+    "Couple10.4.webp",
+    "Couple10.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682d9f9be6f5cf639e1c533f"
+  },
+  "name": "Thỏ Bông Cầm Phong Thư",
+  "description": "Thỏ Bông Cầm Phong Thư phù hợp làm quà tặng.",
+  "price": 375000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 189,
+  "images": [
+    "Couple11.webp",
+    "Couple11.1.webp",
+    "Couple11.2.webp",
+    "Couple11.3.webp",
+    "Couple11.4.webp",
+    "Couple11.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682d9fb6e6f5cf639e1c5340"
+  },
+  "name": "Gấu Bông Capybara Thiên Thần Ôm Tim",
+  "description": "Gấu Bông Capybara Thiên Thần Ôm Tim phù hợp làm quà tặng.",
+  "price": 235000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 144,
+  "images": [
+    "Couple12.webp",
+    "Couple12.1.webp",
+    "Couple12.2.webp",
+    "Couple12.3.webp",
+    "Couple12.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682d9fd0e6f5cf639e1c5341"
+  },
+  "name": "Gấu Bông Couple Dâu Rể Cánh Cụt Pingu",
+  "description": "Gấu Bông Couple Dâu Rể Cánh Cụt Pinguphù hợp làm quà tặng.",
+  "price": 295000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 132,
+  "images": [
+    "Couple13.webp",
+    "Couple13.1.webp",
+    "Couple13.2.webp",
+    "Couple13.3.webp",
+    "Couple13.4.webp",
+    "Couple13.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682d9feee6f5cf639e1c5342"
+  },
+  "name": "Gấu Bông Cặp Đôi BearHug – Cánh Cụt Pororo & Pipi",
+  "description": "Gấu Bông Cặp Đôi BearHug – Cánh Cụt Pororo & Pipi hợp làm quà tặng.",
+  "price": 285000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 143,
+  "images": [
+    "Couple14.webp",
+    "Couple14.1.webp",
+    "Couple14.2.webp",
+    "Couple14.3.webp",
+    "Couple14.4.webp",
+    "Couple14.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682da00fe6f5cf639e1c5343"
+  },
+  "name": "Gấu Bông BabyBoo Ghi Âm",
+  "description": "Gấu Bông BabyBoo Ghi Âm hợp làm quà tặng.",
+  "price": 425000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 71,
+  "images": [
+    "Couple15.webp",
+    "Couple15.1.webp",
+    "Couple15.2.webp",
+    "Couple15.3.webp",
+    "Couple15.4.webp",
+    "Couple15.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682da02fe6f5cf639e1c5344"
+  },
+  "name": "Gấu Bông Capybara Thiên Thần Ghi Âm",
+  "description": "Gấu Bông Capybara Thiên Thần Ghi Âm hợp làm quà tặng.",
+  "price": 395000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 165,
+  "images": [
+    "Couple16.webp",
+    "Couple16.1.webp",
+    "Couple16.2.webp",
+    "Couple16.3.webp",
+    "Couple16.4.webp",
+    "Couple16.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682da054e6f5cf639e1c5345"
+  },
+  "name": "Gấu Bông Capybara Ôm Tim",
+  "description": "Gấu Bông Capybara Ôm Tim hợp làm quà tặng.",
+  "price": 555000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 48,
+  "images": [
+    "Couple17.webp",
+    "Couple17.1.webp",
+    "Couple17.2.webp",
+    "Couple17.3.webp",
+    "Couple17.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682da06ee6f5cf639e1c5346"
+  },
+  "name": "Gấu Bông Ếch Tim Rút",
+  "description": "Gấu Bông Ếch Tim Rút hợp làm quà tặng.",
+  "price": 135000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 53,
+  "images": [
+    "Couple18.webp",
+    "Couple18.1.webp",
+    "Couple18.2.webp",
+    "Couple18.3.webp",
+    "Couple18.4.webp",
+    "Couple18.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682da088e6f5cf639e1c5347"
+  },
+  "name": "Gấu Bông Cầm Hoa Hồng",
+  "description": "Gấu Bông Cầm Hoa Hồng Tim Rút hợp làm quà tặng.",
+  "price": 95000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 66,
+  "images": [
+    "Couple19.webp",
+    "Couple19.1.webp",
+    "Couple19.2.webp",
+    "Couple19.3.webp",
+    "Couple19.4.webp",
+    "Couple19.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682da0a2e6f5cf639e1c5348"
+  },
+  "name": "Thỏ Bông Áo Len Tim",
+  "description": "Thỏ Bông Áo Len Tim hợp làm quà tặng.",
+  "price": 155000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 215,
+  "images": [
+    "Couple20.webp",
+    "Couple20.1.webp",
+    "Couple20.2.webp",
+    "Couple20.3.webp",
+    "Couple20.4.webp",
+    "Couple20.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682da0c0e6f5cf639e1c5349"
+  },
+  "name": "Móc Khóa Couple Capybara Ôm Tim",
+  "description": "Móc Khóa Couple Capybara Ôm Timhợp làm quà tặng.",
+  "price": 135000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 181,
+  "images": [
+    "Couple21.webp",
+    "Couple21.1.webp",
+    "Couple21.2.webp",
+    "Couple21.3.webp",
+    "Couple21.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682da0dce6f5cf639e1c534a"
+  },
+  "name": "Gấu Bông Teddy Áo Len Love",
+  "description": "Gấu Bông Teddy Áo Len Love hợp làm quà tặng.",
+  "price": 385000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 152,
+  "images": [
+    "Couple22.webp",
+    "Couple22.1.webp",
+    "Couple22.2.webp",
+    "Couple22.3.webp",
+    "Couple22.4.webp",
+    "Couple22.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682da0f6e6f5cf639e1c534b"
+  },
+  "name": "Gấu Bông Teddy Cầm Phong Thư",
+  "description": "Gấu Bông Teddy Cầm Phong Thư hợp làm quà tặng.",
+  "price": 425000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 171,
+  "images": [
+    "Couple23.webp",
+    "Couple23.1.webp",
+    "Couple23.2.webp",
+    "Couple23.3.webp",
+    "Couple23.4.webp",
+    "Couple23.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682da10fe6f5cf639e1c534c"
+  },
+  "name": "Gấu Bông Teddy Angel Hồng",
+  "description": "Gấu Bông Teddy Angel Hồng hợp làm quà tặng.",
+  "price": 295000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 169,
+  "images": [
+    "Couple24.webp",
+    "Couple24.1.webp",
+    "Couple24.2.webp",
+    "Couple24.3.webp",
+    "Couple24.4.webp",
+    "Couple24.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682da12ae6f5cf639e1c534d"
+  },
+  "name": "Gấu Bông Teddy Socola",
+  "description": "Gấu Bông Teddy Socola hợp làm quà tặng.",
+  "price": 425000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 188,
+  "images": [
+    "Couple25.webp",
+    "Couple25.1.webp",
+    "Couple25.2.webp",
+    "Couple25.3.webp",
+    "Couple25.4.webp",
+    "Couple25.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682da144e6f5cf639e1c534e"
+  },
+  "name": "Gấu Bông Teddy Logo Baby",
+  "description": "Gấu Bông Teddy Logo Baby hợp làm quà tặng.",
+  "price": 445000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 97,
+  "images": [
+    "Couple26.webp",
+    "Couple26.1.webp",
+    "Couple26.2.webp",
+    "Couple26.3.webp",
+    "Couple26.4.webp",
+    "Couple26.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682da16be6f5cf639e1c534f"
+  },
+  "name": "Gấu Bông Teddy Head Tales",
+  "description": "Gấu Bông Teddy Head Tales hợp làm quà tặng.",
+  "price": 1025000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 95,
+  "images": [
+    "Couple27.webp",
+    "Couple27.1.webp",
+    "Couple27.2.webp",
+    "Couple27.3.webp",
+    "Couple27.4.webp",
+    "Couple27.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682da18ae6f5cf639e1c5350"
+  },
+  "name": "Hộp Nhẫn Kim Cương Bông",
+  "description": "Hộp Nhẫn Kim Cương Bông hợp làm quà tặng.",
+  "price": 175000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 86,
+  "images": [
+    "Couple28.webp",
+    "Couple28.1.webp",
+    "Couple28.2.webp",
+    "Couple28.3.webp",
+    "Couple28.4.webp",
+    "Couple28.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682da1a4e6f5cf639e1c5351"
+  },
+  "name": "Gấu Bông Teddy Angel Tím",
+  "description": "Gấu Bông Teddy Angel Tím hợp làm quà tặng.",
+  "price": 455000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 79,
+  "images": [
+    "Couple29.webp",
+    "Couple29.1.webp",
+    "Couple29.2.webp",
+    "Couple29.3.webp",
+    "Couple29.4.webp",
+    "Couple29.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682da1c8e6f5cf639e1c5352"
+  },
+  "name": "Bông Hoa Hồng",
+  "description": "Bông Hoa Hồng hợp làm quà tặng.",
+  "price": 25000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 32,
+  "images": [
+    "Couple30.webp",
+    "Couple30.1.webp",
+    "Couple30.2.webp",
+    "Couple30.3.webp",
+    "Couple30.4.webp",
+    "Couple30.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682da1e3e6f5cf639e1c5353"
+  },
+  "name": "Gấu Bông Mặc Áo I Love You",
+  "description": "Gấu Bông Mặc Áo I Love You hợp làm quà tặng.",
+  "price": 135000,
+  "image": "Couple31.webp",
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 13
+},
+{
+  "_id": {
+    "$oid": "682da201e6f5cf639e1c5354"
+  },
+  "name": "Gấu Bông Ngồi Ôm Quà",
+  "description": "Gấu Bông Ngồi Ôm Quà hợp làm quà tặng.",
+  "price": 425000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 38,
+  "images": [
+    "Couple32.webp",
+    "Couple32.1.webp",
+    "Couple32.2.webp",
+    "Couple32.3.webp",
+    "Couple32.4.webp",
+    "Couple32.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682da237e6f5cf639e1c5355"
+  },
+  "name": "Gấu Bông Ngồi Ôm Hoa",
+  "description": "Gấu Bông Ngồi Ôm Hoa hợp làm quà tặng.",
+  "price": 425000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 15,
+  "images": [
+    "Couple33.webp",
+    "Couple33.1.webp",
+    "Couple33.2.webp",
+    "Couple33.3.webp",
+    "Couple33.4.webp",
+    "Couple33.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682da251e6f5cf639e1c5356"
+  },
+  "name": "Gấu Bông Teddy Ôm Tim Thỏ",
+  "description": "Gấu Bông Teddy Ôm Tim Thỏ hợp làm quà tặng.",
+  "price": 445000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 62,
+  "images": [
+    "Couple34.webp",
+    "Couple34.1.webp",
+    "Couple34.2.webp",
+    "Couple34.3.webp",
+    "Couple34.4.webp",
+    "Couple34.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682da26ce6f5cf639e1c5357"
+  },
+  "name": "Gấu Bông Teddy Ngực Love",
+  "description": "Gấu Bông Teddy Ngực Love hợp làm quà tặng.",
+  "price": 445000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 72,
+  "images": [
+    "Couple35.webp",
+    "Couple35.1.webp",
+    "Couple35.2.webp",
+    "Couple35.3.webp",
+    "Couple35.4.webp",
+    "Couple35.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682da289e6f5cf639e1c5358"
+  },
+  "name": "Gấu Bông Teddy Mặt Gấu Ôm Tim",
+  "description": "Gấu Bông Teddy Mặt Gấu Ôm Tim hợp làm quà tặng.",
+  "price": 465000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 47,
+  "images": [
+    "Couple36.webp",
+    "Couple36.1.webp",
+    "Couple36.2.webp",
+    "Couple36.3.webp",
+    "Couple36.4.webp",
+    "Couple36.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682da2a4e6f5cf639e1c5359"
+  },
+  "name": "Gấu Bông Teddy Len Kiss Lông Trơn",
+  "description": "Gấu Bông Teddy Len Kiss Lông Trơn hợp làm quà tặng.",
+  "price": 565000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 54,
+  "images": [
+    "Couple37.webp",
+    "Couple37.1.webp",
+    "Couple37.2.webp",
+    "Couple37.3.webp",
+    "Couple37.4.webp",
+    "Couple37.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682da2c8e6f5cf639e1c535a"
+  },
+  "name": "Gấu Bông Teddy Áo Big Love",
+  "description": "Gấu Bông Teddy Áo Big Love hợp làm quà tặng.",
+  "price": 445000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 75,
+  "images": [
+    "Couple38.webp",
+    "Couple38.1.webp",
+    "Couple38.2.webp",
+    "Couple38.3.webp",
+    "Couple38.4.webp",
+    "Couple38.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682da2f0e6f5cf639e1c535b"
+  },
+  "name": "Gấu Bông Teddy Nơ Tim Rút",
+  "description": "Gấu Bông Teddy Nơ Tim Rút hợp làm quà tặng.",
+  "price": 425000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 53,
+  "images": [
+    "Couple39.webp",
+    "Couple39.1.webp",
+    "Couple39.2.webp",
+    "Couple39.3.webp",
+    "Couple39.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682da30be6f5cf639e1c535c"
+  },
+  "name": "Gấu Bông Ngồi Ôm Bánh",
+  "description": "Gấu Bông Ngồi Ôm Bánh hợp làm quà tặng.",
+  "price": 425000,
+  "categoryId": {
+    "$oid": "682d84f9e6f5cf639e1c5331"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 45,
+  "images": [
+    "Couple40.webp",
+    "Couple40.1.webp",
+    "Couple40.2.webp",
+    "Couple40.3.webp",
+    "Couple40.4.webp",
+    "Couple40.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682ef0ccb4154a5b30c4900e"
+  },
+  "name": "Gấu Bông Baby Three Cosplay Gấu Bụng Sao Khổng Lồ",
+  "description": "Gấu Bông Baby Three Cosplay Gấu Bụng Sao Khổng Lồ hợp làm quà tặng.",
+  "price": 1850000,
+  "categoryId": {
+    "$oid": "682eefbfb4154a5b30c4900c"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 49,
+  "images": [
+    "khonglo1.webp",
+    "khonglo1.1.webp",
+    "khonglo1.2.webp",
+    "khonglo1.3.webp",
+    "khonglo1.4.webp",
+    "khonglo1.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682ef0fdb4154a5b30c4900f"
+  },
+  "name": "Gấu Bông Baby Three Cosplay Capybara Khổng Lồ",
+  "description": "Gấu Bông Baby Three Cosplay Capybara Khổng Lồ hợp làm quà tặng.",
+  "price": 1850000,
+  "categoryId": {
+    "$oid": "682eefbfb4154a5b30c4900c"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 72,
+  "images": [
+    "khonglo2.webp",
+    "khonglo2.1.webp",
+    "khonglo2.2.webp",
+    "khonglo2.3.webp",
+    "khonglo2.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682ef134b4154a5b30c49010"
+  },
+  "name": "Gấu Bông Baby Three Cosplay Thỏ Hồng Khổng Lồ",
+  "description": "Gấu Bông Baby Three Cosplay Thỏ Hồng Khổng Lồ hợp làm quà tặng.",
+  "price": 2450000,
+  "categoryId": {
+    "$oid": "682eefbfb4154a5b30c4900c"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 5,
+  "images": [
+    "khonglo3.webp",
+    "khonglo3.1.webp",
+    "khonglo3.2.webp",
+    "khonglo3.3.webp",
+    "khonglo3.4.webp",
+    "khonglo3.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682ef164b4154a5b30c49011"
+  },
+  "name": "Gấu Bông Cánh Cụt Đeo Yếm Khổng Lồ",
+  "description": "Gấu Bông Cánh Cụt Đeo Yếm Khổng Lồ hợp làm quà tặng.",
+  "price": 1650000,
+  "categoryId": {
+    "$oid": "682eefbfb4154a5b30c4900c"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 8,
+  "images": [
+    "khonglo4.webp",
+    "khonglo4.1.webp",
+    "khonglo4.2.webp",
+    "khonglo4.3.webp",
+    "khonglo4.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682ef18bb4154a5b30c49012"
+  },
+  "name": "[PRE-ORDER] Mascot Baby Three",
+  "description": "[PRE-ORDER] Mascot Baby Three hợp làm quà tặng.",
+  "price": 5500000,
+  "categoryId": {
+    "$oid": "682eefbfb4154a5b30c4900c"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 11,
+  "images": [
+    "khonglo5.1.webp",
+    "khonglo5.1.webp",
+    "khonglo5.2.webp",
+    "khonglo5.3.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682ef1bdb4154a5b30c49013"
+  },
+  "name": "Thỏ Bông Mặc Áo Nỉ Khổng Lồ",
+  "description": "Thỏ Bông Mặc Áo Nỉ Khổng Lồ hợp làm quà tặng.",
+  "price": 1750000,
+  "categoryId": {
+    "$oid": "682eefbfb4154a5b30c4900c"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 66,
+  "images": [
+    "khonglo6.webp",
+    "khonglo6.1.webp",
+    "khonglo6.2.webp",
+    "khonglo6.3.webp",
+    "khonglo6.4.webp",
+    "khonglo6.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682ef1eab4154a5b30c49014"
+  },
+  "name": "Gấu Bông Teddy Logo Baby Khổng Lồ",
+  "description": "Gấu Bông Teddy Logo Baby Khổng Lồ hợp làm quà tặng.",
+  "price": 2300000,
+  "categoryId": {
+    "$oid": "682eefbfb4154a5b30c4900c"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 99,
+  "images": [
+    "khonglo7.webp",
+    "khonglo7.1.webp",
+    "khonglo7.2.webp",
+    "khonglo7.3.webp",
+    "khonglo7.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682ef206b4154a5b30c49015"
+  },
+  "name": "Gấu Bông Teddy Socola Khổng Lồ",
+  "description": "Gấu Bông Teddy Socola Khổng Lồ hợp làm quà tặng.",
+  "price": 2300000,
+  "categoryId": {
+    "$oid": "682eefbfb4154a5b30c4900c"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 177,
+  "images": [
+    "khonglo8.webp",
+    "khonglo8.1.webp",
+    "khonglo8.2.webp",
+    "khonglo8.3.webp",
+    "khonglo8.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682ef229b4154a5b30c49016"
+  },
+  "name": "Gấu Bông Teddy Mặt Gấu Ôm Tim Khổng Lồ",
+  "description": "Gấu Bông Teddy Mặt Gấu Ôm Tim Khổng Lồ hợp làm quà tặng.",
+  "price": 2150000,
+  "categoryId": {
+    "$oid": "682eefbfb4154a5b30c4900c"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 74,
+  "images": [
+    "khonglo9.webp",
+    "khonglo9.1.webp",
+    "khonglo9.2.webp",
+    "khonglo9.3.webp",
+    "khonglo9.4.webp",
+    "khonglo9.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682ef247b4154a5b30c49017"
+  },
+  "name": "Gấu Bông Teddy Angel Hồng Khổng Lồ",
+  "description": "Gấu Bông Teddy Angel Hồng Khổng Lồ hợp làm quà tặng.",
+  "price": 2500000,
+  "categoryId": {
+    "$oid": "682eefbfb4154a5b30c4900c"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 55,
+  "images": [
+    "khonglo10.webp",
+    "khonglo10.1.webp",
+    "khonglo10.2.webp",
+    "khonglo10.3.webp",
+    "khonglo10.4.webp",
+    "khonglo10.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682ef2ceb4154a5b30c49018"
+  },
+  "name": "Gấu Bông Teddy Angel Tím Khổng Lồ",
+  "description": "Gấu Bông Teddy Angel Tím Khổng Lồ hợp làm quà tặng.",
+  "price": 2500000,
+  "categoryId": {
+    "$oid": "682eefbfb4154a5b30c4900c"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 49,
+  "images": [
+    "khonglo11.webp",
+    "khonglo11.1.webp",
+    "khonglo11.2.webp",
+    "khonglo11.3.webp",
+    "khonglo11.4.webp",
+    "khonglo11.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682ef2fcb4154a5b30c49019"
+  },
+  "name": "Gấu Bông Big Lotso Tai Dâu Đứng Khổng Lồ",
+  "description": "Gấu Bông Big Lotso Tai Dâu Đứng Khổng Lồ hợp làm quà tặng.",
+  "price": 1550000,
+  "categoryId": {
+    "$oid": "682eefbfb4154a5b30c4900c"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 18,
+  "images": [
+    "khonglo12.webp",
+    "khonglo12.1.webp",
+    "khonglo12.2.webp",
+    "khonglo12.3.webp",
+    "khonglo12.4.webp",
+    "khonglo12.5.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682ef32db4154a5b30c4901a"
+  },
+  "name": "Gấu Bông Capybara Đeo Túi Rùa Khổng Lồ",
+  "description": "Gấu Bông Capybara Đeo Túi Rùa Khổng Lồ hợp làm quà tặng.",
+  "price": 2625000,
+  "categoryId": {
+    "$oid": "682eefbfb4154a5b30c4900c"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 119,
+  "images": [
+    "khonglo13.webp",
+    "khonglo13.1.webp",
+    "khonglo13.2.webp",
+    "khonglo13.3.webp",
+    "khonglo13.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "682ef36eb4154a5b30c4901b"
+  },
+  "name": "Gấu Bông Capybara Nước Mũi Khổng Lồ",
+  "description": "Gấu Bông Capybara Nước Mũi Khổng Lồ hợp làm quà tặng.",
+  "price": 2250000,
+  "categoryId": {
+    "$oid": "682eefbfb4154a5b30c4900c"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "khonglo14.webp",
+    "khonglo14.1.webp",
+    "khonglo14.1.webp",
+    "khonglo14.3.webp",
+    "khonglo14.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836bd298bae817a54d1d16b"
+  },
+  "name": "Gấu Bông BabyBoo Ghi Âm",
+  "description": "Gấu Bông BabyBoo Ghi Âm hợp làm quà tặng.",
+  "price": 425000,
+  "categoryId": {
+    "$oid": "6836bd438bae817a54d1d16e"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gaughiam1.webp",
+    "gaughiam1.1.webp",
+    "gaughiam1.2.webp",
+    "gaughiam1.3.webp",
+    "gaughiam1.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836bd9b8bae817a54d1d16f"
+  },
+  "name": "Gấu Bông Capybara Thiên Thần Ghi Âm",
+  "description": "Gấu Bông Capybara Thiên Thần Ghi Âm hợp làm quà tặng.",
+  "price": 395000,
+  "categoryId": {
+    "$oid": "6836bd438bae817a54d1d16e"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gaughiam2.webp",
+    "gaughiam2.1.webp",
+    "gaughiam2.2.webp",
+    "gaughiam2.3.webp",
+    "gaughiam2.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836bdc58bae817a54d1d170"
+  },
+  "name": "Gấu Bông Teddy Ghi Âm",
+  "description": "Gấu Bông Teddy Ghi Âm hợp làm quà tặng.",
+  "price": 335000,
+  "categoryId": {
+    "$oid": "6836bd438bae817a54d1d16e"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gaughiam3.webp",
+    "gaughiam3.1.webp",
+    "gaughiam3.2.webp",
+    "gaughiam3.3.webp",
+    "gaughiam3.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836bde08bae817a54d1d171"
+  },
+  "name": "Gấu Bông Capybara Hồng Đeo Bóng Nhảy Hát",
+  "description": "Gấu Bông Capybara Hồng Đeo Bóng Nhảy Hát hợp làm quà tặng.",
+  "price": 335000,
+  "categoryId": {
+    "$oid": "6836bd438bae817a54d1d16e"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gaughiam4.webp",
+    "gaughiam4.1.webp",
+    "gaughiam4.2.webp",
+    "gaughiam4.3.webp",
+    "gaughiam4.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836be038bae817a54d1d172"
+  },
+  "name": "Gấu Bông Ru Ngủ Capybara",
+  "description": "Gấu Bông Ru Ngủ Capybara hợp làm quà tặng.",
+  "price": 235000,
+  "categoryId": {
+    "$oid": "6836bd438bae817a54d1d16e"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gaughiam5.webp",
+    "gaughiam5.1.webp",
+    "gaughiam5.2.webp",
+    "gaughiam5.3.webp",
+    "gaughiam5.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836be238bae817a54d1d173"
+  },
+  "name": "Gấu Bông Ru Ngủ – Thỏ Dâu 2in1",
+  "description": "Gấu Bông Ru Ngủ – Thỏ Dâu 2in1 làm quà tặng.",
+  "price": 234500,
+  "categoryId": {
+    "$oid": "6836bd438bae817a54d1d16e"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gaughiam6.webp",
+    "gaughiam6.1.webp",
+    "gaughiam6.2.webp",
+    "gaughiam6.3.webp",
+    "gaughiam6.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836c1658bae817a54d1d17e"
+  },
+  "name": "Gấu Bông Tốt Nghiệp",
+  "description": "Gấu Bông Tốt Nghiệp hợp làm quà tặng.",
+  "price": 90000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gautns1.webp",
+    "gautn1.1.webp",
+    "gautn1.2.webp",
+    "gautn1.3.webp",
+    "gautn1.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836c1888bae817a54d1d17f"
+  },
+  "name": "Bộ 3 Gấu Bông Happy",
+  "description": "Bộ 3 Gấu Bông Happy hợp làm quà tặng.",
+  "price": 345000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gausn1.webp",
+    "gausn1.1.webp",
+    "gausn1.2.webp",
+    "gausn1.3.webp",
+    "gausn1.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836c1a78bae817a54d1d180"
+  },
+  "name": "Gấu Bông Tốt Nghiệp Head Lông Xoắn Áo Lụa",
+  "description": "Gấu Bông Tốt Nghiệp Head Lông Xoắn Áo Lụa hợp làm quà tặng.",
+  "price": 125000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gautns2.webp",
+    "gautn2.1.webp",
+    "gautn2.2.webp",
+    "gautn2.3.webp",
+    "gautn2.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836c1d58bae817a54d1d181"
+  },
+  "name": "Cánh Cụt Bông Đội Mũ Sinh Nhật",
+  "description": "Cánh Cụt Bông Đội Mũ Sinh Nhật hợp làm quà tặng.",
+  "price": 255000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gausns2.webp",
+    "gausn2.1.webp",
+    "gausn2.2.webp",
+    "gausn2.3.webp",
+    "gausn2.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836c22f8bae817a54d1d183"
+  },
+  "name": "Thú Bông Đội Mũ Sinh Nhật Bộ Ngủ",
+  "description": "Thú Bông Đội Mũ Sinh Nhật Bộ Ngủ hợp làm quà tặng.",
+  "price": 355000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gausns3.webp",
+    "gausn3.1.webp",
+    "gausn3.2.webp",
+    "gausn3.3.webp",
+    "gausn3.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836c25d8bae817a54d1d184"
+  },
+  "name": "Gấu Bông Tốt Nghiệp Capybara",
+  "description": "Gấu Bông Tốt Nghiệp Capybara hợp làm quà tặng.",
+  "price": 195000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gautns4.webp",
+    "gautn4.1.webp",
+    "gautn4.2.webp",
+    "gautn4.3.webp",
+    "gautn4.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836c2888bae817a54d1d185"
+  },
+  "name": "Bộ Thú Bông Ôm Bánh Sinh Nhật",
+  "description": "Bộ Thú Bông Ôm Bánh Sinh Nhật hợp làm quà tặng.",
+  "price": 375000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gausns4.webp",
+    "gausn4.1.webp",
+    "gausn4.2.webp",
+    "gausn4.3.webp",
+    "gausn4.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836c3a68bae817a54d1d187"
+  },
+  "name": "Gấu Bông Tốt Nghiệp Head Tales",
+  "description": "Gấu Bông Tốt Nghiệp Head Tales hợp làm quà tặng.",
+  "price": 95000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gautn5.webp",
+    "gautn5.1.webp",
+    "gautn5.2.webp",
+    "gautn5.3.webp",
+    "gautn5.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836c3ec8bae817a54d1d189"
+  },
+  "name": "Gấu Bông Tốt Nghiệp Doraemon",
+  "description": "Gấu Bông Tốt Nghiệp Doraemon hợp làm quà tặng.",
+  "price": 155000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gautn7.webp",
+    "gautn7.1.webp",
+    "gautn7.2.webp",
+    "gautn7.3.webp",
+    "gautn7.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836c4058bae817a54d1d18a"
+  },
+  "name": "Gấu Bông Tốt Nghiệp Loopy",
+  "description": "Gấu Bông Tốt Nghiệp Loopy hợp làm quà tặng.",
+  "price": 155000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gautn8.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836c41d8bae817a54d1d18b"
+  },
+  "name": "Móc Khóa Gấu Bông Capybara Tốt Nghiệp",
+  "description": "Móc Khóa Gấu Bông Capybara Tốt Nghiệp hợp làm quà tặng.",
+  "price": 155000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gautn9.webp",
+    "gautn9.1.webp",
+    "gautn9.2.webp",
+    "gautn9.3.webp",
+    "gautn9.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836c43f8bae817a54d1d18c"
+  },
+  "name": "Gấu Bông Tốt Nghiệp Hoạt Hình",
+  "description": "Gấu Bông Tốt Nghiệp Hoạt Hình hợp làm quà tặng.",
+  "price": 95000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gautn10.webp",
+    "gautn10.1.webp",
+    "gautn10.2.webp",
+    "gautn10.3.webp",
+    "gautn10.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836c45a8bae817a54d1d18d"
+  },
+  "name": "Gấu Bông Tốt Nghiệp Đeo Kính",
+  "description": "Gấu Bông Tốt Nghiệp Đeo Kính hợp làm quà tặng.",
+  "price": 115000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gautn11.webp",
+    "gautn11.1.webp",
+    "gautn11.2.webp",
+    "gautn11.3.webp",
+    "gautn11.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836c4bc8bae817a54d1d18e"
+  },
+  "name": "Bộ Thú Bông Ôm Bánh Sinh Nhật",
+  "description": "Bộ Thú Bông Ôm Bánh Sinh Nhật hợp làm quà tặng.",
+  "price": 375000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gausn5.webp",
+    "gausn5.1.webp",
+    "gausn5.2.webp",
+    "gausn5.3.webp",
+    "gausn5.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836c4d98bae817a54d1d18f"
+  },
+  "name": "Bộ 3 Gấu Bông Bánh Sinh Nhật",
+  "description": "Bộ 3 Gấu Bông Bánh Sinh Nhật hợp làm quà tặng.",
+  "price": 325000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gausn6.webp",
+    "gausn6.1.webp",
+    "gausn6.2.webp",
+    "gausn6.3.webp",
+    "gausn6.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836c5ab8bae817a54d1d190"
+  },
+  "name": "Gấu Bông Lông Xù Ôm Bánh Sinh Nhật",
+  "description": "Gấu Bông Lông Xù Ôm Bánh Sinh Nhật hợp làm quà tặng.",
+  "price": 225000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gausn7.webp",
+    "gausn7.1.webp",
+    "gausn7.2.webp",
+    "gausn7.3.webp",
+    "gausn7.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836c5c88bae817a54d1d191"
+  },
+  "name": "Gấu Bông Lông Xoắn Ôm Bánh Sinh Nhật Hồng",
+  "description": "Gấu Bông Lông Xoắn Ôm Bánh Sinh Nhật Hồng hợp làm quà tặng.",
+  "price": 295000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gausn8.webp",
+    "gausn8.1.webp",
+    "gausn8.2.webp",
+    "gausn8.3.webp",
+    "gausn8.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836c6418bae817a54d1d192"
+  },
+  "name": "Bộ 3 Thú Đội Mũ Sinh Nhật",
+  "description": "Bộ 3 Thú Đội Mũ Sinh Nhật làm quà tặng.",
+  "price": 155000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gausn9.webp",
+    "gausn9.1.webp",
+    "gausn9.2.webp",
+    "gausn9.3.webp",
+    "gausn9.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836c6e38bae817a54d1d193"
+  },
+  "name": "Gấu Bông Capybara Đội Bánh Sinh Nhật",
+  "description": "Gấu Bông Capybara Đội Bánh Sinh Nhật hợp làm quà tặng.",
+  "price": 275000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gausn10.webp",
+    "gausn10.1.webp",
+    "gausn10.2.webp",
+    "gausn10.3.webp",
+    "gausn10.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836c7008bae817a54d1d194"
+  },
+  "name": "Gấu Bông Ngồi Ôm Bánh",
+  "description": "Gấu Bông Capybara Đội Bánh Sinh Nhật hợp làm quà tặng.",
+  "price": 425000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gausn11.webp",
+    "gausn11.1.webp",
+    "gausn11.2.webp",
+    "gausn11.3.webp",
+    "gausn11.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836c7238bae817a54d1d195"
+  },
+  "name": "Gấu Trúc Bông Ôm Bánh Sinh Nhật",
+  "description": "Gấu Trúc Bông Ôm Bánh Sinh Nhật hợp làm quà tặng.",
+  "price": 355000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gausn12.webp",
+    "gausn12.1.webp",
+    "gausn12.2.webp",
+    "gausn12.3.webp",
+    "gausn12.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836c7438bae817a54d1d196"
+  },
+  "name": "Gấu Nhạc Bánh Kem",
+  "description": "Gấu Nhạc Bánh Kem hợp làm quà tặng.",
+  "price": 165000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gausn13.webp",
+    "gausn13.1.webp",
+    "gausn13.2.webp",
+    "gausn13.3.webp",
+    "gausn13.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836ce8d8bae817a54d1d1bf"
+  },
+  "name": "Gấu Bông Tốt Nghiệp Cánh Cụt",
+  "description": "Gấu Bông Tốt Nghiệp Cánh Cụt hợp làm quà tặng.",
+  "price": 155000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gautnss1.webp",
+    "gautns1.1.webp",
+    "gautns1.2.webp",
+    "gautns1.3.webp",
+    "gautns1.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "6836ce588bae817a54d1d1be"
+  }
+},
+{
+  "_id": {
+    "$oid": "6836ceac8bae817a54d1d1c0"
+  },
+  "name": "Gấu Bông Tốt Nghiệp Khung Ảnh",
+  "description": "Gấu Bông Tốt Nghiệp Khung Ảnh hợp làm quà tặng.",
+  "price": 165000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gautn2.webp",
+    "gautns2.1.webp",
+    "gautns2.2.webp",
+    "gautns2.3.webp",
+    "gautns2.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "6836ce588bae817a54d1d1be"
+  }
+},
+{
+  "_id": {
+    "$oid": "6836d7cacab3cf29cc5da786"
+  },
+  "name": "Gấu Bông Bánh Sinh Nhật",
+  "description": "Gấu Bông Bánh Sinh Nhật hợp làm quà tặng.",
+  "price": 235000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gausn1.webp",
+    "gausns1.1.webp",
+    "gausns1.2.webp",
+    "gausns1.3.webp",
+    "gausns1.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "6836d4a029ebc36711630f92"
+  }
+},
+{
+  "_id": {
+    "$oid": "6836d8e0cab3cf29cc5da78e"
+  },
+  "name": "Bộ 3 Thú Đội Mũ Sinh Nhật",
+  "description": "Bộ 3 Thú Đội Mũ Sinh Nhật hợp làm quà tặng.",
+  "price": 155000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gausn9.webp",
+    "gausn9.1.webp",
+    "gausn9.2.webp",
+    "gausn9.3.webp",
+    "gausn9.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "6836d4a029ebc36711630f92"
+  }
+},
+{
+  "_id": {
+    "$oid": "6836d900cab3cf29cc5da78f"
+  },
+  "name": "Gấu Bông Capybara Đội Bánh Sinh Nhật",
+  "description": "Gấu Bông Capybara Đội Bánh Sinh Nhật hợp làm quà tặng.",
+  "price": 275000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gausn10.webp",
+    "gausn10.1.webp",
+    "gausn10.2.webp",
+    "gausn10.3.webp",
+    "gausn10.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "6836d4a029ebc36711630f92"
+  }
+},
+{
+  "_id": {
+    "$oid": "6836d93bcab3cf29cc5da790"
+  },
+  "name": "Gấu Bông Ngồi Ôm Bánh",
+  "description": "Gấu Bông Ngồi Ôm Bánh hợp làm quà tặng.",
+  "price": 425000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gausn11.webp",
+    "gausn11.1.webp",
+    "gausn11.2.webp",
+    "gausn11.3.webp",
+    "gausn11.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "6836d4a029ebc36711630f92"
+  }
+},
+{
+  "_id": {
+    "$oid": "6836d954cab3cf29cc5da791"
+  },
+  "name": "Gấu Trúc Bông Ôm Bánh Sinh Nhật",
+  "description": "Gấu Trúc Bông Ôm Bánh Sinh Nhật hợp làm quà tặng.",
+  "price": 355000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gausn12.webp",
+    "gausn12.1.webp",
+    "gausn12.2.webp",
+    "gausn12.3.webp",
+    "gausn12.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "6836d4a029ebc36711630f92"
+  }
+},
+{
+  "_id": {
+    "$oid": "6836d977cab3cf29cc5da792"
+  },
+  "name": "Gấu Nhạc Bánh Kem",
+  "description": "Gấu Nhạc Bánh Kem hợp làm quà tặng.",
+  "price": 165000,
+  "categoryId": {
+    "$oid": "6836bfc58bae817a54d1d17d"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "gausn13.webp",
+    "gausn13.1.webp",
+    "gausn13.2.webp",
+    "gausn13.3.webp",
+    "gausn13.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "6836d4a029ebc36711630f92"
+  }
+},
+{
+  "_id": {
+    "$oid": "6836ddf2cab3cf29cc5da7aa"
+  },
+  "name": "Bó Hoa Bông Mặt Cười",
+  "description": "Bó Hoa Bông Mặt Cười hợp làm quà tặng.",
+  "price": 145000,
+  "categoryId": {
+    "$oid": "6836ddb8cab3cf29cc5da7a9"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "hoagb1.webp",
+    "hoagb1.1.webp",
+    "hoagb1.2.webp",
+    "hoagb1.3.webp",
+    "hoagb1.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836de37cab3cf29cc5da7ab"
+  },
+  "name": "Set Bó Hoa Hồng",
+  "description": "Set Bó Hoa Hồng hợp làm quà tặng.",
+  "price": 220500,
+  "categoryId": {
+    "$oid": "6836ddb8cab3cf29cc5da7a9"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "hoagb2.webp",
+    "hoagb2.1.webp",
+    "hoagb2.2.webp",
+    "hoagb2.3.webp",
+    "hoagb2.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836de77cab3cf29cc5da7ac"
+  },
+  "name": "Cành Hoa Bông Mặt Cười",
+  "description": "Cành Hoa Bông Mặt Cười hợp làm quà tặng.",
+  "price": 35000,
+  "categoryId": {
+    "$oid": "6836ddb8cab3cf29cc5da7a9"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "hoagb3.webp",
+    "hoagb3.1.webp",
+    "hoagb3.2.webp",
+    "hoagb3.3.webp",
+    "hoagb3.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836de8ecab3cf29cc5da7ad"
+  },
+  "name": "Chậu Hoa Bông Floral",
+  "description": "Chậu Hoa Bông Floral hợp làm quà tặng.",
+  "price": 165000,
+  "categoryId": {
+    "$oid": "6836ddb8cab3cf29cc5da7a9"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "hoagb4.webp",
+    "hoagb4.1.webp",
+    "hoagb4.2.webp",
+    "hoagb4.3.webp",
+    "hoagb4.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836dea7cab3cf29cc5da7ae"
+  },
+  "name": "Bông Hoa Hồng",
+  "description": "Bông Hoa Hồng hợp làm quà tặng.",
+  "price": 25000,
+  "categoryId": {
+    "$oid": "6836ddb8cab3cf29cc5da7a9"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "hoagb5.webp",
+    "hoagb5.1.webp",
+    "hoagb5.2.webp",
+    "hoagb5.3.webp",
+    "hoagb5.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836dec7cab3cf29cc5da7af"
+  },
+  "name": "Bó Hoa Vải Gấu Bông Hoạt Hình",
+  "description": "Bó Hoa Vải Gấu Bông Hoạt Hình hợp làm quà tặng.",
+  "price": 132500,
+  "categoryId": {
+    "$oid": "6836ddb8cab3cf29cc5da7a9"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "hoagb6.webp",
+    "hoagb6.1.webp",
+    "hoagb6.2.webp",
+    "hoagb6.3.webp",
+    "hoagb6.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836df02cab3cf29cc5da7b0"
+  },
+  "name": "Set Bó Hoa Váy",
+  "description": "Set Bó Hoa Váy hợp làm quà tặng.",
+  "price": 325000,
+  "categoryId": {
+    "$oid": "6836ddb8cab3cf29cc5da7a9"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "hoagb7.webp",
+    "hoagb7.1.webp",
+    "hoagb7.2.webp",
+    "hoagb7.3.webp",
+    "hoagb7.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836df2fcab3cf29cc5da7b1"
+  },
+  "name": "Set Bó Hoa Vải Lotso – Hoa Tulip",
+  "description": "Set Bó Hoa Vải Lotso – Hoa Tulip hợp làm quà tặng.",
+  "price": 206500,
+  "categoryId": {
+    "$oid": "6836ddb8cab3cf29cc5da7a9"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "hoagb8.webp",
+    "hoagb8.1.webp",
+    "hoagb8.2.webp",
+    "hoagb8.3.webp",
+    "hoagb8.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836df51cab3cf29cc5da7b2"
+  },
+  "name": "Set Bó Hoa Len Thỏ",
+  "description": "Set Bó Hoa Len Thỏ hợp làm quà tặng.",
+  "price": 265000,
+  "categoryId": {
+    "$oid": "6836ddb8cab3cf29cc5da7a9"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "hoagb9.webp",
+    "hoagb9.1.webp",
+    "hoagb9.2.webp",
+    "hoagb9.3.webp",
+    "hoagb9.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836df6fcab3cf29cc5da7b3"
+  },
+  "name": "Set Bó Hoa Vải Lông Hoa Hồng Tai Thỏ",
+  "description": "Set Bó Hoa Vải Lông Hoa Hồng Tai Thỏ hợp làm quà tặng.",
+  "price": 265000,
+  "categoryId": {
+    "$oid": "6836ddb8cab3cf29cc5da7a9"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "hoagb10.webp",
+    "hoagb10.1.webp",
+    "hoagb10.2.webp",
+    "hoagb10.3.webp",
+    "hoagb10.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836df8ecab3cf29cc5da7b4"
+  },
+  "name": "Set Bó Hoa Vải Gấu Bông",
+  "description": "Set Bó Hoa Vải Gấu Bông hợp làm quà tặng.",
+  "price": 265000,
+  "categoryId": {
+    "$oid": "6836ddb8cab3cf29cc5da7a9"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "hoagb11.webp",
+    "hoagb11.1.webp",
+    "hoagb11.2.webp",
+    "hoagb11.3.webp",
+    "hoagb11.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6836dfaecab3cf29cc5da7b5"
+  },
+  "name": "Set Bó Hoa Hộp",
+  "description": "Set Bó Hoa Hộp hợp làm quà tặng.",
+  "price": 185500,
+  "categoryId": {
+    "$oid": "6836ddb8cab3cf29cc5da7a9"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "hoagb12.webp",
+    "hoagb12.1.webp",
+    "hoagb12.2.webp",
+    "hoagb12.3.webp",
+    "hoagb12.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6837cb2962e4059224b1267d"
+  },
+  "name": "Gấu Bông Baby Three Thỏ Thị Trấn",
+  "description": "Gấu Bông Baby Three Thỏ Thị Trấn hợp làm quà tặng.",
+  "price": 132500,
+  "categoryId": {
+    "$oid": "6837cae262e4059224b1267c"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "babythree1.webp",
+    "babythree1.1.webp",
+    "babythree1.2.webp",
+    "babythree1.3.webp",
+    "babythree1.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6837cb4262e4059224b1267e"
+  },
+  "name": "Gấu Bông Baby Three Cosplay Gà Vàng",
+  "description": "Gấu Bông Baby Three Cosplay Gà Vàng hợp làm quà tặng.",
+  "price": 132500,
+  "categoryId": {
+    "$oid": "6837cae262e4059224b1267c"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "babythree2.webp",
+    "babythree2.1.webp",
+    "babythree2.2.webp",
+    "babythree2.3.webp",
+    "babythree2.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6837cb6062e4059224b1267f"
+  },
+  "name": "Gấu Bông Baby Three Thỏ Đứng Đội Nơ",
+  "description": "Gấu Bông Baby Three Thỏ Đứng Đội Nơ hợp làm quà tặng.",
+  "price": 92500,
+  "categoryId": {
+    "$oid": "6837cae262e4059224b1267c"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "babythree3.webp",
+    "babythree3.1.webp",
+    "babythree3.2.webp",
+    "babythree3.3.webp",
+    "babythree3.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6837cb7762e4059224b12680"
+  },
+  "name": "Gấu Bông Baby Three V3 Thỏ Hồng",
+  "description": "Gấu Bông Baby Three V3 Thỏ Hồng hợp làm quà tặng.",
+  "price": 92500,
+  "categoryId": {
+    "$oid": "6837cae262e4059224b1267c"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "babythree4.webp",
+    "babythree4.1.webp",
+    "babythree4.2.webp",
+    "babythree4.3.webp",
+    "babythree4.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6837cb9262e4059224b12681"
+  },
+  "name": "Gấu Bông Baby Three Thỏ Lông Xoắn",
+  "description": "Gấu Bông Baby Three Thỏ Lông Xoắn hợp làm quà tặng.",
+  "price": 162500,
+  "categoryId": {
+    "$oid": "6837cae262e4059224b1267c"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "babythree5.webp",
+    "babythree5.1.webp",
+    "babythree5.2.webp",
+    "babythree5.3.webp",
+    "babythree5.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6837cba962e4059224b12682"
+  },
+  "name": "Gấu Bông Baby Three Liila Zoo Thỏ Đốm",
+  "description": "Gấu Bông Baby Three Liila Zoo Thỏ Đốm hợp làm quà tặng.",
+  "price": 132500,
+  "categoryId": {
+    "$oid": "6837cae262e4059224b1267c"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "babythree6.webp",
+    "babythree6.1.webp",
+    "babythree6.2.webp",
+    "babythree6.3.webp",
+    "babythree6.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6837cbbf62e4059224b12683"
+  },
+  "name": "Gấu Bông Baby Three Cosplay Capybara",
+  "description": "Gấu Bông Baby Three Cosplay Capybara hợp làm quà tặng.",
+  "price": 132500,
+  "categoryId": {
+    "$oid": "6837cae262e4059224b1267c"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "babythree7.webp",
+    "babythree7.1.webp",
+    "babythree7.2.webp",
+    "babythree7.3.webp",
+    "babythree7.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6837cbdc62e4059224b12684"
+  },
+  "name": "Gấu Bông Baby Three Cosplay Mèo Đen",
+  "description": "Gấu Bông Baby Three Cosplay Mèo Đen hợp làm quà tặng.",
+  "price": 132500,
+  "categoryId": {
+    "$oid": "6837cae262e4059224b1267c"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "babythree8.webp",
+    "babythree8.1.webp",
+    "babythree8.2.webp",
+    "babythree8.3.webp",
+    "babythree8.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6837cbfe62e4059224b12685"
+  },
+  "name": "Gấu Bông Baby Three V3 Gấu Trúc",
+  "description": "Gấu Bông Baby Three V3 Gấu Trúc hợp làm quà tặng.",
+  "price": 92500,
+  "categoryId": {
+    "$oid": "6837cae262e4059224b1267c"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "babythree9.webp",
+    "babythree9.1.webp",
+    "babythree9.2.webp",
+    "babythree9.3.webp",
+    "babythree9.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6837cc1862e4059224b12686"
+  },
+  "name": "Gấu Bông Baby Three V3 Cáo Cam",
+  "description": "Gấu Bông Baby Three V3 Cáo Cam hợp làm quà tặng.",
+  "price": 92500,
+  "categoryId": {
+    "$oid": "6837cae262e4059224b1267c"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "babythree10.webp",
+    "babythree10.1.webp",
+    "babythree10.2.webp",
+    "babythree10.3.webp",
+    "babythree10.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6837cc4362e4059224b12687"
+  },
+  "name": "Gấu Bông Baby Three Cosplay Capybara Big Size",
+  "description": "Gấu Bông Baby Three Cosplay Capybara Big Size hợp làm quà tặng.",
+  "price": 1250000,
+  "categoryId": {
+    "$oid": "6837cae262e4059224b1267c"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "babythree11.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6837cc6a62e4059224b12688"
+  },
+  "name": "Gấu Bông Baby Three Cosplay Gấu Bụng Sao Khổng Lồ",
+  "description": "Gấu Bông Baby Three Cosplay Gấu Bụng Sao Khổng Lồ hợp làm quà tặng.",
+  "price": 1850000,
+  "categoryId": {
+    "$oid": "6837cae262e4059224b1267c"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "babythree12.webp",
+    "babythree12.1.webp",
+    "babythree12.2.webp",
+    "babythree12.3.webp",
+    "babythree12.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6837d43a62e4059224b126b2"
+  },
+  "name": "Gấu Bông Teddy Đeo Nhẫn",
+  "description": "Gấu Bông Teddy Đeo Nhẫn hợp làm quà tặng.",
+  "price": 455000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddyfs1.webp",
+    "teddyfs1.1.webp",
+    "teddyfs1.2.webp",
+    "teddyfs1.3.webp",
+    "teddyfs1.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6837d45862e4059224b126b3"
+  },
+  "name": "Gấu Bông Teddy Thiên Thần Trắng Đeo Nơ",
+  "description": "Gấu Bông Teddy Thiên Thần Trắng Đeo Nơ hợp làm quà tặng.",
+  "price": 495000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddyfs2.webp",
+    "teddyfs2.1.webp",
+    "teddyfs2.2.webp",
+    "teddyfs2.3.webp",
+    "teddyfs2.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6837d47762e4059224b126b4"
+  },
+  "name": "Gấu Bông Teddy Áo Len Love",
+  "description": "Gấu Bông Teddy Áo Len Love hợp làm quà tặng.",
+  "price": 385000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddyfs3.webp",
+    "teddyfs3.1.webp",
+    "teddyfs3.2.webp",
+    "teddyfs3.3.webp",
+    "teddyfs3.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6837d49962e4059224b126b5"
+  },
+  "name": "Gấu Bông Teddy Cầm Phong Thư",
+  "description": "Gấu Bông Teddy Cầm Phong Thư hợp làm quà tặng.",
+  "price": 425000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddyfs4.webp",
+    "teddyfs4.1.webp",
+    "teddyfs4.2.webp",
+    "teddyfs4.3.webp",
+    "teddyfs4.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6837d4b362e4059224b126b6"
+  },
+  "name": "Gấu Bông Teddy Angel Hồng",
+  "description": "Gấu Bông Teddy Angel Hồng hợp làm quà tặng.",
+  "price": 295000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddyfs5.webp",
+    "teddyfs5.1.webp",
+    "teddyfs5.2.webp",
+    "teddyfs5.3.webp",
+    "teddyfs5.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6837d4d162e4059224b126b7"
+  },
+  "name": "Gấu Bông Teddy Socola",
+  "description": "Gấu Bông Teddy Socola hợp làm quà tặng.",
+  "price": 425000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddyfs6.webp",
+    "teddyfs6.1.webp",
+    "teddyfs6.2.webp",
+    "teddyfs6.3.webp",
+    "teddyfs6.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6837d4ed62e4059224b126b8"
+  },
+  "name": "Gấu Bông Teddy Logo Baby",
+  "description": "Gấu Bông Teddy Logo Baby hợp làm quà tặng.",
+  "price": 445000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddyfs7.webp",
+    "teddyfs7.1.webp",
+    "teddyfs7.2.webp",
+    "teddyfs7.3.webp",
+    "teddyfs7.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6837d50e62e4059224b126b9"
+  },
+  "name": "Gấu Bông Teddy Áo Len Quàng Khăn",
+  "description": "Gấu Bông Teddy Áo Len Quàng Khăn hợp làm quà tặng.",
+  "price": 575000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddyfs8.webp",
+    "teddyfs8.1.webp",
+    "teddyfs8.2webp",
+    "teddyfs8.3.webp",
+    "teddyfs8.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6837d99762e4059224b126da"
+  },
+  "name": "Gấu Bông Teddy Head Tales (Big Size)",
+  "description": "Gấu Bông Teddy Head Tales (Big Size) hợp làm quà tặng.",
+  "price": 1265000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddybs1.webp",
+    "teddybs1.1.webp",
+    "teddybs1.2.webp",
+    "teddybs1.3.webp",
+    "teddybs1.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6837d9b762e4059224b126db"
+  },
+  "name": "Gấu Bông Teddy Đeo Yếm (Big Size)",
+  "description": "Gấu Bông Teddy Đeo Yếm (Big Size) hợp làm quà tặng.",
+  "price": 1150000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddybs2.webp",
+    "teddybs2.1.webp",
+    "teddybs2.2.webp",
+    "teddybs2.3.webp",
+    "teddybs2.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6837d9d462e4059224b126dc"
+  },
+  "name": "Gấu Bông Teddy Angel Tím (Big Size)",
+  "description": "Gấu Bông Teddy Angel Tím (Big Size) hợp làm quà tặng.",
+  "price": 1350000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddybs3.webp",
+    "teddybs3.1.webp",
+    "teddybs3.2.webp",
+    "teddybs3.3.webp",
+    "teddybs3.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6837d9f462e4059224b126dd"
+  },
+  "name": "Gấu Bông Teddy Angel Hồng (Big Size)",
+  "description": "Gấu Bông Teddy Angel Hồng (Big Size) hợp làm quà tặng.",
+  "price": 1550000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddybs4.webp",
+    "teddybs4.1.webp",
+    "teddybs4.2.webp",
+    "teddybs4.3.webp",
+    "teddybs4.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6837da1562e4059224b126de"
+  },
+  "name": "Gấu Bông Teddy Logo Baby (Big Size)",
+  "description": "Gấu Bông Teddy Logo Baby (Big Size) hợp làm quà tặng.",
+  "price": 1600000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddybs5.webp",
+    "teddybs5.1.webp",
+    "teddybs5.2.webp",
+    "teddybs5.3.webp",
+    "teddybs5.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6837da3562e4059224b126df"
+  },
+  "name": "Gấu Bông Teddy Mặt Gấu Ôm Tim (Big Size)",
+  "description": "Gấu Bông Teddy Mặt Gấu Ôm Tim (Big Size) hợp làm quà tặng.",
+  "price": 1150000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddybs6.webp",
+    "teddybs6.1.webp",
+    "teddybs6.2.webp",
+    "teddybs6.3.webp",
+    "teddybs6.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6837da5762e4059224b126e0"
+  },
+  "name": "Gấu Bông Teddy Socola (Big Size)",
+  "description": "Gấu Bông Teddy Socola (Big Size) hợp làm quà tặng.",
+  "price": 1600000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddybs7.webp",
+    "teddybs7.1.webp",
+    "teddybs7.2.webp",
+    "teddybs7.3.webp",
+    "teddybs7.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6837da7062e4059224b126e1"
+  },
+  "name": "Gấu Bông Teddy Áo Kì Lân (Big Size)",
+  "description": "Gấu Bông Teddy Áo Kì Lân (Big Size) hợp làm quà tặng.",
+  "price": 1200000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddybs8.webp",
+    "teddybs8.1.webp",
+    "teddybs8.2.webp",
+    "teddybs8.3.webp",
+    "teddybs8.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683805087d03734c0d447942"
+  },
+  "name": "Gấu Bông Cặp Đôi BearHug – Gấu Hugo & Rosie",
+  "description": "Gấu Bông Cặp Đôi BearHug – Gấu Hugo & Rosie hợp làm quà tặng.",
+  "price": 285000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddymn1.webp",
+    "teddymn1.1.webp",
+    "teddymn1.2.webp",
+    "teddymn1.3.webp",
+    "teddymn1.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6838052e7d03734c0d447943"
+  },
+  "name": "Gấu Bông Boo Đội Mũ Hoa",
+  "description": "Gấu Bông Boo Đội Mũ Hoa hợp làm quà tặng.",
+  "price": 485000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddymn2.webp",
+    "teddymn2.1.webp",
+    "teddymn2.2.webp",
+    "teddymn2.3.webp",
+    "teddymn2.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6838054e7d03734c0d447944"
+  },
+  "name": "Gấu Bông Lông Thỏ Áo Cotton",
+  "description": "Gấu Bông Lông Thỏ Áo Cotton hợp làm quà tặng.",
+  "price": 145000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddymn3.webp",
+    "teddymn3.1.webp",
+    "teddymn3.2.webp",
+    "teddymn3.3.webp",
+    "teddymn3.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683805747d03734c0d447945"
+  },
+  "name": "Gấu Bông Teddy Head Nhỏ",
+  "description": "Gấu Bông Teddy Head Nhỏ hợp làm quà tặng.",
+  "price": 95000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddymn4.webp",
+    "teddymn4.1.webp",
+    "teddymn4.2.webp",
+    "teddymn4.3.webp",
+    "teddymn4.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683805977d03734c0d447946"
+  },
+  "name": "Gấu Bông Teddy Head Tales Nhỏ",
+  "description": "Gấu Bông Teddy Head Tales Nhỏ hợp làm quà tặng.",
+  "price": 115000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddymns5.webp",
+    "teddymn5.1.webp",
+    "teddymn5.2.webp",
+    "teddymn5.3.webp",
+    "teddymn5.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683805b87d03734c0d447947"
+  },
+  "name": "Gấu Bông Đầu Bếp",
+  "description": "Gấu Bông Đầu Bếp hợp làm quà tặng.",
+  "price": 385000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddymns6.webp",
+    "teddymn6.1.webp",
+    "teddymn6.2.webp",
+    "teddymn6.3.webp",
+    "teddymn6.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683805ea7d03734c0d447948"
+  },
+  "name": "Gấu Bông Lazy Ôm Thỏ",
+  "description": "Gấu Bông Lazy Ôm Thỏ hợp làm quà tặng.",
+  "price": 145000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddymns7.webp",
+    "teddymn7.1.webp",
+    "teddymn7.2.webp",
+    "teddymn7.3.webp",
+    "teddymn7.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683806077d03734c0d447949"
+  },
+  "name": "Gấu Bông Teddy Áo Choàng",
+  "description": "Gấu Bông Teddy Áo Choàng hợp làm quà tặng.",
+  "price": 345000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddymns8.webp",
+    "teddymn8.1.webp",
+    "teddymn8.2.webp",
+    "teddymn8.3.webp",
+    "teddymn8.4.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683807de7d03734c0d447958"
+  },
+  "name": "Gấu Bông Teddy Đeo Nhẫn",
+  "description": "Gấu Bông Teddy Đeo Nhẫn hợp làm quà tặng.",
+  "price": 455000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddyfs1.webp",
+    "teddyfs1.1.webp",
+    "teddyfs1.2.webp",
+    "teddyfs1.3.webp",
+    "teddyfs1.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "6838078e7d03734c0d447957"
+  }
+},
+{
+  "_id": {
+    "$oid": "683808457d03734c0d447959"
+  },
+  "name": "Gấu Bông Teddy Thiên Thần Trắng Đeo Nơ",
+  "description": "Gấu Bông Teddy Thiên Thần Trắng Đeo Nơ hợp làm quà tặng.",
+  "price": 495000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddyfs2.webp",
+    "teddyfs2.1.webp",
+    "teddyfs2.2.webp",
+    "teddyfs2.3.webp",
+    "teddyfs2.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "6838078e7d03734c0d447957"
+  }
+},
+{
+  "_id": {
+    "$oid": "683808627d03734c0d44795a"
+  },
+  "name": "Gấu Bông Teddy Áo Len Love",
+  "description": "Gấu Bông Teddy Áo Len Love hợp làm quà tặng.",
+  "price": 385000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddyfs3.webp",
+    "teddyfs3.1.webp",
+    "teddyfs3.2.webp",
+    "teddyfs3.3.webp",
+    "teddyfs3.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "6838078e7d03734c0d447957"
+  }
+},
+{
+  "_id": {
+    "$oid": "6838087f7d03734c0d44795b"
+  },
+  "name": "Gấu Bông Teddy Cầm Phong Thư",
+  "description": "Gấu Bông Teddy Cầm Phong Thư hợp làm quà tặng.",
+  "price": 425000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddyfs4.webp",
+    "teddyfs4.1.webp",
+    "teddyfs4.2.webp",
+    "teddyfs4.3.webp",
+    "teddyfs4.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "6838078e7d03734c0d447957"
+  }
+},
+{
+  "_id": {
+    "$oid": "6838089c7d03734c0d44795c"
+  },
+  "name": "Gấu Bông Teddy Angel Hồng",
+  "description": "Gấu Bông Teddy Angel Hồng hợp làm quà tặng.",
+  "price": 295000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddyfs5.webp",
+    "teddyfs5.1.webp",
+    "teddyfs5.2.webp",
+    "teddyfs5.3.webp",
+    "teddyfs5.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "6838078e7d03734c0d447957"
+  }
+},
+{
+  "_id": {
+    "$oid": "683808bf7d03734c0d44795d"
+  },
+  "name": "Gấu Bông Teddy Socola",
+  "description": "Gấu Bông Teddy Socola hợp làm quà tặng.",
+  "price": 425000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddyfs6.webp",
+    "teddyfs6.1.webp",
+    "teddyfs6.2.webp",
+    "teddyfs6.3.webp",
+    "teddyfs6.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "6838078e7d03734c0d447957"
+  }
+},
+{
+  "_id": {
+    "$oid": "683808e37d03734c0d44795e"
+  },
+  "name": "Gấu Bông Teddy Logo Baby",
+  "description": "Gấu Bông Teddy Logo Baby hợp làm quà tặng.",
+  "price": 445000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddyfs7.webp",
+    "teddyfs7.1.webp",
+    "teddyfs7.2.webp",
+    "teddyfs7.3.webp",
+    "teddyfs7.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "6838078e7d03734c0d447957"
+  }
+},
+{
+  "_id": {
+    "$oid": "683809027d03734c0d44795f"
+  },
+  "name": "Gấu Bông Teddy Áo Len Quàng Khăn",
+  "description": "Gấu Bông Teddy Áo Len Quàng Khăn hợp làm quà tặng.",
+  "price": 575000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddyfs8.webp",
+    "teddyfs8.1.webp",
+    "teddyfs8.2.webp",
+    "teddyfs8.3.webp",
+    "teddyfs8.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "6838078e7d03734c0d447957"
+  }
+},
+{
+  "_id": {
+    "$oid": "68380cad7d03734c0d447983"
+  },
+  "name": "Gấu Bông Teddy Head Tales (Big Size)",
+  "description": "Gấu Bông Teddy Head Tales (Big Size) hợp làm quà tặng.",
+  "price": 1265000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddybs1.webp",
+    "teddybs1.1.webp",
+    "teddybs1.2.webp",
+    "teddybs1.3.webp",
+    "teddybs1.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "68380c177d03734c0d447981"
+  }
+},
+{
+  "_id": {
+    "$oid": "68380cec7d03734c0d447984"
+  },
+  "name": "Gấu Bông Teddy Đeo Yếm (Big Size)",
+  "description": "Gấu Bông Teddy Đeo Yếm (Big Size) hợp làm quà tặng.",
+  "price": 1150000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddybs2.webp",
+    "teddybs2.1.webp",
+    "teddybs2.2.webp",
+    "teddybs2.3.webp",
+    "teddybs2.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "68380c177d03734c0d447981"
+  }
+},
+{
+  "_id": {
+    "$oid": "68380d067d03734c0d447985"
+  },
+  "name": "Gấu Bông Teddy Angel Tím (Big Size)",
+  "description": "Gấu Bông Teddy Angel Tím (Big Size) hợp làm quà tặng.",
+  "price": 1350000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddybs3.webp",
+    "teddybs3.1.webp",
+    "teddybs3.1.webp",
+    "teddybs3.3.webp",
+    "teddybs3.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "68380c177d03734c0d447981"
+  }
+},
+{
+  "_id": {
+    "$oid": "68380d1c7d03734c0d447986"
+  },
+  "name": "Gấu Bông Teddy Angel Hồng (Big Size)",
+  "description": "Gấu Bông Teddy Angel Hồng (Big Size) hợp làm quà tặng.",
+  "price": 1550000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddybs4.webp",
+    "teddybs4.1.webp",
+    "teddybs4.2.webp",
+    "teddybs4.3.webp",
+    "teddybs4.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "68380c177d03734c0d447981"
+  }
+},
+{
+  "_id": {
+    "$oid": "68380d397d03734c0d447987"
+  },
+  "name": "Gấu Bông Teddy Logo Baby (Big Size)",
+  "description": "Gấu Bông Teddy Logo Baby (Big Size) hợp làm quà tặng.",
+  "price": 1600000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddybs5.webp",
+    "teddybs5.1.webp",
+    "teddybs5.2.webp",
+    "teddybs5.3.webp",
+    "teddybs5.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "68380c177d03734c0d447981"
+  }
+},
+{
+  "_id": {
+    "$oid": "68380db37d03734c0d447988"
+  },
+  "name": "Gấu Bông Teddy Mặt Gấu Ôm Tim (Big Size)",
+  "description": "Gấu Bông Teddy Mặt Gấu Ôm Tim (Big Size) hợp làm quà tặng.",
+  "price": 1150000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddybs6.webp",
+    "teddybs6.1.webp",
+    "teddybs6.2.webp",
+    "teddybs6.3.webp",
+    "teddybs6.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "68380c177d03734c0d447981"
+  }
+},
+{
+  "_id": {
+    "$oid": "68380de27d03734c0d447989"
+  },
+  "name": "Gấu Bông Teddy Socola (Big Size)",
+  "description": "Gấu Bông Teddy Socola (Big Size) hợp làm quà tặng.",
+  "price": 1600000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddybs7.webp",
+    "teddybs7.1.webp",
+    "teddybs7.2.webp",
+    "teddybs7.3.webp",
+    "teddybs7.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "68380c177d03734c0d447981"
+  }
+},
+{
+  "_id": {
+    "$oid": "68380e017d03734c0d44798a"
+  },
+  "name": "Gấu Bông Teddy Áo Kì Lân (Big Size)",
+  "description": "Gấu Bông Teddy Áo Kì Lân (Big Size) hợp làm quà tặng.",
+  "price": 1200000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddybs8.webp",
+    "teddybs8.1.webp",
+    "teddybs8.2.webp",
+    "teddybs8.3.webp",
+    "teddybs8.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "68380c177d03734c0d447981"
+  }
+},
+{
+  "_id": {
+    "$oid": "683810c17d03734c0d44799e"
+  },
+  "name": "Gấu Bông Cặp Đôi BearHug – Gấu Hugo & Rosie",
+  "description": "Gấu Bông Cặp Đôi BearHug – Gấu Hugo & Rosie hợp làm quà tặng.",
+  "price": 285000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddymn1.webp",
+    "teddymn1.1.webp",
+    "teddymn1.2.webp",
+    "teddymn1.3.webp",
+    "teddymn1.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "6838104f7d03734c0d44799d"
+  }
+},
+{
+  "_id": {
+    "$oid": "683810e37d03734c0d44799f"
+  },
+  "name": "Gấu Bông Boo Đội Mũ Hoa",
+  "description": "Gấu Bông Boo Đội Mũ Hoa hợp làm quà tặng.",
+  "price": 485000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddymn2.webp",
+    "teddymn2.1.webp",
+    "teddymn2.2.webp",
+    "teddymn2.3.webp",
+    "teddymn2.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "6838104f7d03734c0d44799d"
+  }
+},
+{
+  "_id": {
+    "$oid": "683810fd7d03734c0d4479a0"
+  },
+  "name": "Gấu Bông Lông Thỏ Áo Cotton",
+  "description": "Gấu Bông Lông Thỏ Áo Cotton hợp làm quà tặng.",
+  "price": 145000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddymn3.webp",
+    "teddymn3.1.webp",
+    "teddymn3.2.webp",
+    "teddymn3.3.webp",
+    "teddymn3.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "6838104f7d03734c0d44799d"
+  }
+},
+{
+  "_id": {
+    "$oid": "683811187d03734c0d4479a1"
+  },
+  "name": "Gấu Bông Teddy Head Nhỏ",
+  "description": "Gấu Bông Teddy Head Nhỏ hợp làm quà tặng.",
+  "price": 95000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddymn4.webp",
+    "teddymn4.1.webp",
+    "teddymn4.2.webp",
+    "teddymn4.3.webp",
+    "teddymn4.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "6838104f7d03734c0d44799d"
+  }
+},
+{
+  "_id": {
+    "$oid": "683811347d03734c0d4479a2"
+  },
+  "name": "Gấu Bông Teddy Head Tales Nhỏ",
+  "description": "Gấu Bông Teddy Head Tales Nhỏ hợp làm quà tặng.",
+  "price": 115000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddymns5.webp",
+    "teddymn5.1.webp",
+    "teddymn5.2.webp",
+    "teddymn5.3.webp",
+    "teddymn5.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "6838104f7d03734c0d44799d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6838115c7d03734c0d4479a3"
+  },
+  "name": "Gấu Bông Đầu Bếp",
+  "description": "Gấu Bông Đầu Bếp hợp làm quà tặng.",
+  "price": 385000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddymns6.webp",
+    "teddymn6.1.webp",
+    "teddymn6.2.webp",
+    "teddymn6.3.webp",
+    "teddymn6.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "6838104f7d03734c0d44799d"
+  }
+},
+{
+  "_id": {
+    "$oid": "683811787d03734c0d4479a4"
+  },
+  "name": "Gấu Bông Lazy Ôm Thỏ",
+  "description": "Gấu Bông Lazy Ôm Thỏ hợp làm quà tặng.",
+  "price": 145000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddymns7.webp",
+    "teddymn7.1.webp",
+    "teddymn7.2.webp",
+    "teddymn7.3.webp",
+    "teddymn7.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "6838104f7d03734c0d44799d"
+  }
+},
+{
+  "_id": {
+    "$oid": "683811917d03734c0d4479a5"
+  },
+  "name": "Gấu Bông Teddy Áo Choàng",
+  "description": "Gấu Bông Teddy Áo Choàng hợp làm quà tặng.",
+  "price": 345000,
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  },
+  "createdAt": {
+    "$date": "2025-05-16T00:00:00.000Z"
+  },
+  "sold": 158,
+  "images": [
+    "teddymns8.webp",
+    "teddymn8.1.webp",
+    "teddymn8.2.webp",
+    "teddymn8.3.webp",
+    "teddymn8.4.webp"
+  ],
+  "subcategoryId": {
+    "$oid": "6838104f7d03734c0d44799d"
+  }
+},
+{
+  "_id": {
+    "$oid": "68383b6c1e4958ce5ccee2b6"
+  },
+  "name": "edfrghj",
+  "description": "jkonojoju",
+  "images": [
+    "BLB3.2.webp"
+  ],
+  "createdAt": {
+    "$date": "2025-05-29T10:48:12.005Z"
+  },
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  }
+},
+{
+  "_id": {
+    "$oid": "683843e51e4958ce5ccee3e1"
+  },
+  "name": "edfrghjô",
+  "description": "hfhgfd",
+  "images": [
+    "babythree1.webp"
+  ],
+  "createdAt": {
+    "$date": "2025-05-29T11:24:21.548Z"
+  },
+  "categoryId": {
+    "$oid": "6837d13c62e4059224b126af"
+  }
+},
+{
+  "_id": {
+    "$oid": "683845b71e4958ce5ccee418"
+  },
+  "name": "edfrghjô",
+  "description": "vjhhvkjh",
+  "images": [
+    "BLB.webp"
+  ],
+  "createdAt": {
+    "$date": "2025-05-29T11:32:07.415Z"
+  },
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  }
+},
+{
+  "_id": {
+    "$oid": "6838465d1e4958ce5ccee427"
+  },
+  "name": "edfrghjô",
+  "description": "sadsad",
+  "images": [
+    "BLB3.1.webp"
+  ],
+  "createdAt": {
+    "$date": "2025-05-29T11:34:53.534Z"
+  },
+  "categoryId": {
+    "$oid": "681107d831bf250910c59b83"
+  }
+}]
