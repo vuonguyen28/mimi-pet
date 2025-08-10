@@ -1,0 +1,43 @@
+name: Deploy FE+BE to Azure App Service
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'   # hoặc phiên bản bạn chọn ở Web App
+
+      # Build FE
+      - name: Install & build frontend
+        working-directory: frontend
+        run: |
+          npm ci
+          npm run build
+
+      # Build BE
+      - name: Install & build backend
+        working-directory: backend
+        run: |
+          npm ci
+          npm run build --if-present
+
+      # Chép FE build vào backend để BE serve static
+      - name: Bundle FE into backend
+        run: |
+          mkdir -p backend/public
+          # đổi 'dist' thành 'build' nếu FE xuất ra 'build'
+          cp -r frontend/dist/* backend/public/ 2>/dev/null || cp -r frontend/build/* backend/public/
+
+      # Deploy CHỈ thư mục backend
+      - name: Deploy to Azure Web App
+        uses: azure/webapps-deploy@v3
+        with:
+          app-name: api-mimi-bear              # tên Web App của bạn
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE }}
+          package: backend
